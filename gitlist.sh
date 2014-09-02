@@ -122,7 +122,14 @@ https://github.com/Netflix/Workflowable.git
 https://github.com/Netflix/sketchy.git
 https://github.com/mutability/rtl-sdr.git
 https://github.com/csete/gnuradio-grc-examples.git
-git clone http://git.gnuradio.org/git/gnuradio.git
+http://git.gnuradio.org/git/gnuradio.git
+https://github.com/omriiluz/NRF24-BTLE-Decoder.git
+https://github.com/bemasher/rtlamr.git
+https://github.com/eT0M/rtl_sdr_FS20_decoder.git
+https://github.com/jacobzelek/rtl_sdr_kit.git
+https://github.com/yuvadm/gascop.git
+https://github.com/antirez/dump1090.git
+https://github.com/skaringa/weather-sdr-decode.git
 EOF`
 cd /opt
 for i in $a

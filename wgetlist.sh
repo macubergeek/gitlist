@@ -15,7 +15,6 @@ https://labs.portcullis.co.uk/download/enum4linux-0.8.9.tar.gz
 http://www.exploit-db.com/download/19091
 http://packetstorm.igor.onlinedirect.bg/UNIX/penetration/aspxshell.aspx.txt
 http://packetstorm.igor.onlinedirect.bg/UNIX/penetration/rootkits/c99.tgz
-http://www.ampliasecurity.com/research/wce_v1_4beta_x64.zip
 http://www.ampliasecurity.com/research/wce_v1_4beta_x32.zip
 http://pastebin.com/download.php?i=TE3fvhEh
 https://raw.githubusercontent.com/zacinaction/kicksat-groundstation/master/SpriteReceiver.grc 
@@ -53,6 +52,8 @@ http://downloads.sourceforge.net/project/watobo/watobo_0.9.5rev226.zip
 http://www.baudline.com/baudline_1.08_linux_x86_64.tar.gz
 http://www.sharebrained.com/downloads/gnuradio/microphone_shure.grc
 http://code.metager.de/source/xref/gnu/gnuradio/gr-digital/examples/demod/dpsk_loopback.grc
+https://github.com/greatscottgadgets/ubertooth/archive/2014-04-R1.tar.gz
+https://github.com/downloads/hpux735/Cocoa-Radio/CocoaRadio.zip
 EOF`
 cd /opt
 for i in $a

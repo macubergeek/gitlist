@@ -130,6 +130,10 @@ https://github.com/jacobzelek/rtl_sdr_kit.git
 https://github.com/yuvadm/gascop.git
 https://github.com/antirez/dump1090.git
 https://github.com/skaringa/weather-sdr-decode.git
+https://github.com/Nuand/bladeRF.git
+https://github.com/allfro/sploitego.git
+https://github.com/samratashok/nishang.git
+https://github.com/balle/bluediving.git
 EOF`
 cd /opt
 for i in $a

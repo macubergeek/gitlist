@@ -54,6 +54,8 @@ http://www.sharebrained.com/downloads/gnuradio/microphone_shure.grc
 http://code.metager.de/source/xref/gnu/gnuradio/gr-digital/examples/demod/dpsk_loopback.grc
 https://github.com/greatscottgadgets/ubertooth/archive/2014-04-R1.tar.gz
 https://github.com/downloads/hpux735/Cocoa-Radio/CocoaRadio.zip
+http://nodejs.org/dist/v0.10.31/node-v0.10.31-linux-x64.tar.gz
+https://github.com/Jermolene/TiddlyWiki5.git
 EOF`
 cd /opt
 for i in $a

@@ -134,6 +134,7 @@ https://github.com/Nuand/bladeRF.git
 https://github.com/allfro/sploitego.git
 https://github.com/samratashok/nishang.git
 https://github.com/balle/bluediving.git
+https://github.com/tkuester/gr-psk31.git
 EOF`
 cd /opt
 for i in $a

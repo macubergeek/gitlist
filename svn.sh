@@ -11,5 +11,5 @@ EOF`
 cd /opt
 for i in $a
 do
-$i
+svn co $i
 done

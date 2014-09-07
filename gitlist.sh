@@ -136,6 +136,8 @@ https://github.com/samratashok/nishang.git
 https://github.com/balle/bluediving.git
 https://github.com/tkuester/gr-psk31.git
 https://github.com/bgamari/gnuradio-multimode.git
+https://github.com/secretsquirrel/the-backdoor-factory.git
+https://github.com/secretsquirrel/BDFProxy
 EOF`
 cd /opt
 for i in $a

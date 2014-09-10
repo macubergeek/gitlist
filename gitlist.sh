@@ -139,6 +139,7 @@ https://github.com/bgamari/gnuradio-multimode.git
 https://github.com/secretsquirrel/the-backdoor-factory.git
 https://github.com/secretsquirrel/BDFProxy
 git://git.osmocom.org/sdrangelove.git
+https://github.com/OWASP/O-Saft.git
 EOF`
 cd /opt
 for i in $a

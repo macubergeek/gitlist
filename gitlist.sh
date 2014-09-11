@@ -140,6 +140,7 @@ https://github.com/secretsquirrel/the-backdoor-factory.git
 https://github.com/secretsquirrel/BDFProxy
 git://git.osmocom.org/sdrangelove.git
 https://github.com/OWASP/O-Saft.git
+https://github.com/rockymeza/wifi.git
 EOF`
 cd /opt
 for i in $a

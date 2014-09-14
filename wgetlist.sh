@@ -57,7 +57,8 @@ https://github.com/downloads/hpux735/Cocoa-Radio/CocoaRadio.zip
 http://nodejs.org/dist/v0.10.31/node-v0.10.31-linux-x64.tar.gz
 https://github.com/Jermolene/TiddlyWiki5.git
 http://www.gat3way.eu/poc/swscan.tgz
-http://live.sysinternals.com/psexec.exe 
+http://live.sysinternals.com/psexec.exe
+http://www.wxtoimg.com/downloads/wxtoimg-linux64-2.10.11-1.tar.gz
 EOF`
 cd /opt
 for i in $a

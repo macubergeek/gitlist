@@ -142,6 +142,7 @@ git://git.osmocom.org/sdrangelove.git
 https://github.com/OWASP/O-Saft.git
 https://github.com/rockymeza/wifi.git
 https://github.com/clockfort/wifi-locator.git
+https://github.com/OpenSecurityResearch/hostapd-wpe.git
 EOF`
 cd /opt
 for i in $a

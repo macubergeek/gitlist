@@ -144,6 +144,7 @@ https://github.com/rockymeza/wifi.git
 https://github.com/clockfort/wifi-locator.git
 https://github.com/OpenSecurityResearch/hostapd-wpe.git
 https://github.com/windytan/slowrx.git
+https://github.com/offensive-security/kali-sly-pi.git
 EOF`
 cd /opt
 for i in $a

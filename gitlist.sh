@@ -102,7 +102,6 @@ https://gist.github.com/10171593.git
 https://github.com/Veil-Framework/Veil-PowerView.git
 https://github.com/rsmudge/metasploit-loader.git
 https://gist.github.com/b54e50a3dddfb3fadd0a.git
-https://killerbee.googlecode.com/files/killerbee_1_0.tar
 https://github.com/jekyc/wig.git
 https://github.com/bastibl/gr-ieee802-11.git
 https://github.com/dcramer/chardet.git

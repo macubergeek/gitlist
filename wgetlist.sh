@@ -24,7 +24,6 @@ https://davtest.googlecode.com/files/davtest-1.0.zip
 https://github.com/obscuresec/random/raw/master/StartListener.py 
 http://fimap.googlecode.com/files/fimap_alpha_v09.tar.gz
 https://ua-tester.googlecode.com/files/UAtester_PTEG.mht 
-https://subterfuge.googlecode.com/files/subterfuge_1.0-1_all.deb 
 http://valgrind.org/downloads/valgrind-3.9.0.tar.bz2
 https://hash-identifier.googlecode.com/files/Hash_ID_v1.1.py
 https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.7-linux-x86_64.tar.bz2

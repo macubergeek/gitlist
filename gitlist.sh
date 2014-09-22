@@ -146,6 +146,7 @@ https://github.com/windytan/slowrx.git
 https://github.com/offensive-security/kali-sly-pi.git
 https://github.com/AdamLaurie/RFIDIOt.git
 https://github.com/Proxmark/proxmark3.git
+https://github.com/rezeusor/killerbee.git
 EOF`
 cd /opt
 for i in $a

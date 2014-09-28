@@ -58,6 +58,8 @@ https://github.com/Jermolene/TiddlyWiki5.git
 http://www.gat3way.eu/poc/swscan.tgz
 http://live.sysinternals.com/psexec.exe
 http://www.wxtoimg.com/downloads/wxtoimg-linux64-2.10.11-1.tar.gz
+wget http://debianuser.org/bruteforce/passlist.txt
+wget http://debianuser.org/bruteforce/brutessh.zip
 EOF`
 cd /opt
 for i in $a

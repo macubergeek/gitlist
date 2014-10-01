@@ -151,6 +151,7 @@ https://github.com/kanzure/impacket.git
 https://github.com/Miserlou/Hash-Identifier.git
 https://github.com/freaklabs/chibiArduino.git
 https://bitbucket.org/skew/gyuto.git
+https://github.com/fishnetsecurity/Lair.git
 EOF`
 cd /opt
 for i in $a

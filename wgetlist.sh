@@ -60,6 +60,8 @@ http://live.sysinternals.com/psexec.exe
 http://www.wxtoimg.com/downloads/wxtoimg-linux64-2.10.11-1.tar.gz
 http://debianuser.org/bruteforce/passlist.txt
 http://debianuser.org/bruteforce/brutessh.zip
+sourceforge.net/projects/dnscat/files/latest/download/dnscat/0.01/dnscat-0.01.tar.gz
+http://downloads.sourceforge.net/jrdesktop/jrdesktop-0.2.0030.bin.zip
 EOF`
 cd /opt
 for i in $a

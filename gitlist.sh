@@ -153,6 +153,8 @@ https://github.com/freaklabs/chibiArduino.git
 https://bitbucket.org/skew/gyuto.git
 https://github.com/fishnetsecurity/Lair.git
 https://github.com/ctfs/write-ups.git
+https://github.com/trustedsec/unicorn.git
+https://github.com/poweradminllc/PAExec.git
 EOF`
 cd /opt
 for i in $a

@@ -79,7 +79,6 @@ https://github.com/TigerSecurity/gerix-wifi-cracker.git
 https://github.com/ChrisTruncer/EyeWitness.git
 http://www.openvas.org/download/wmi/wmi-1.3.14.tar.bz2:
 https://github.com/wpscanteam/wpscan.git
-https://github.com/mubix/netview.git
 https://github.com/mubix/WhiteChapel.git
 https://github.com/mubix/deepmagic.git
 https://gist.github.com/10107280.git
@@ -99,7 +98,6 @@ git://github.com/zacinaction/kicksat.wiki.git
 https://github.com/inquisb/keimpx.git
 https://github.com/TheRook/subbrute.git
 https://gist.github.com/10171593.git
-https://github.com/Veil-Framework/Veil-PowerView.git
 https://github.com/rsmudge/metasploit-loader.git
 https://gist.github.com/b54e50a3dddfb3fadd0a.git
 https://github.com/jekyc/wig.git
@@ -155,6 +153,9 @@ https://github.com/fishnetsecurity/Lair.git
 https://github.com/ctfs/write-ups.git
 https://github.com/trustedsec/unicorn.git
 https://github.com/poweradminllc/PAExec.git
+https://github.com/HarmJ0y/PowerUp.git
+https://github.com/zeknox/scripts.git
+https://github.com/Veil-Framework/Veil-PowerView.git
 EOF`
 cd /opt
 for i in $a

@@ -158,6 +158,7 @@ https://github.com/zeknox/scripts.git
 https://github.com/Veil-Framework/Veil-PowerView.git
 https://github.com/darkoperator/Posh-SecMod.git
 https://github.com/besimorhino/powercat.git
+https://github.com/vacmf/powershell-scripts.git
 EOF`
 cd /opt
 for i in $a

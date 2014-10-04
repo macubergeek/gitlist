@@ -156,6 +156,8 @@ https://github.com/poweradminllc/PAExec.git
 https://github.com/HarmJ0y/PowerUp.git
 https://github.com/zeknox/scripts.git
 https://github.com/Veil-Framework/Veil-PowerView.git
+https://github.com/darkoperator/Posh-SecMod.git
+https://github.com/besimorhino/powercat.git
 EOF`
 cd /opt
 for i in $a

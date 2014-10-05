@@ -159,6 +159,9 @@ https://github.com/Veil-Framework/Veil-PowerView.git
 https://github.com/darkoperator/Posh-SecMod.git
 https://github.com/besimorhino/powercat.git
 https://github.com/vacmf/powershell-scripts.git
+https://github.com/silentbreaksec/Throwback.git
+https://github.com/TweekFawkes/White_Lightning.git
+https://github.com/kirill85/BlackSquirrel.git
 EOF`
 cd /opt
 for i in $a

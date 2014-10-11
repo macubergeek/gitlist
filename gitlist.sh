@@ -163,6 +163,7 @@ https://github.com/silentbreaksec/Throwback.git
 https://github.com/TweekFawkes/White_Lightning.git
 https://github.com/kirill85/BlackSquirrel.git
 git://w1.fi/hostap.git
+https://github.com/SilverFoxx/PwnSTAR.git
 EOF`
 cd /opt
 for i in $a

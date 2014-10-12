@@ -62,6 +62,8 @@ http://debianuser.org/bruteforce/passlist.txt
 http://debianuser.org/bruteforce/brutessh.zip
 sourceforge.net/projects/dnscat/files/latest/download/dnscat/0.01/dnscat-0.01.tar.gz
 http://downloads.sourceforge.net/jrdesktop/jrdesktop-0.2.0030.bin.zip
+https://www.dropbox.com/s/1j6v6zbtsdg1kam/Kerberoast.pdf
+https://github.com/gentilkiwi/mimikatz/releases/download/2.0.0-alpha-20141010/mimikatz_trunk.7z
 EOF`
 cd /opt
 for i in $a

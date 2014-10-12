@@ -164,6 +164,8 @@ https://github.com/TweekFawkes/White_Lightning.git
 https://github.com/kirill85/BlackSquirrel.git
 git://w1.fi/hostap.git
 https://github.com/SilverFoxx/PwnSTAR.git
+https://github.com/nidem/kerberoast.git
+https://github.com/gentilkiwi/mimikatz.git
 EOF`
 cd /opt
 for i in $a

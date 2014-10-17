@@ -58,6 +58,7 @@ https://github.com/mandatoryprogrammer/xssless.git
 https://github.com/themightyshiv/buildvpn.git
 https://github.com/zmap/zmap.git
 https://github.com/robertdavidgraham/masscan.git
+https://github.com/tiwaryshailesh/Masscan-For-Metasploit.git
 https://github.com/macubergeek/gitlist.git
 https://github.com/opinkerfi/winexe.git
 https://github.com/kanzure/python-wmi-client-wrapper.git

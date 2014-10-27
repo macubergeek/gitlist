@@ -171,6 +171,7 @@ https://github.com/silentbreaksec/Throwback.git
 https://github.com/silentbreaksec/ThrowbackLP.git
 https://github.com/roeyk/nessus-report.git
 https://github.com/travisgoodspeed/goodfet goodfet
+https://github.com/robotastic/smartnet-scanner.git
 EOF`
 cd /opt
 for i in $a

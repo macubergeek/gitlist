@@ -175,6 +175,7 @@ https://github.com/robotastic/smartnet-scanner.git
 https://github.com/pinkavaj/gr-scan.git
 https://github.com/jboone/tpms.git
 https://github.com/sitsec/bruteforce-crc.git
+https://github.com/nccgroup/metasploitavevasion.git
 EOF`
 cd /opt
 for i in $a

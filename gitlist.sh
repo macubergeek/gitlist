@@ -176,9 +176,12 @@ https://github.com/pinkavaj/gr-scan.git
 https://github.com/jboone/tpms.git
 https://github.com/sitsec/bruteforce-crc.git
 https://github.com/nccgroup/metasploitavevasion.git
+https://github.com/pentestgeek/phishing-frenzy.git
+https://github.com/pentestgeek/phishing-frenzy-templates.git
 EOF`
 cd /opt
 for i in $a
 do
+
 git clone $i
 done

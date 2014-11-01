@@ -178,6 +178,7 @@ https://github.com/sitsec/bruteforce-crc.git
 https://github.com/nccgroup/metasploitavevasion.git
 https://github.com/pentestgeek/phishing-frenzy.git
 https://github.com/pentestgeek/phishing-frenzy-templates.git
+https://github.com/AdamLaurie/RFIDIOt.git
 EOF`
 cd /opt
 for i in $a

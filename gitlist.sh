@@ -182,6 +182,7 @@ https://github.com/AdamLaurie/RFIDIOt.git
 https://github.com/tjomk/wfuzz.git
 https://github.com/rainkid/httrack.git
 https://github.com/junks/linkedInScraper.git
+https://bitbucket.org/al14s/rawr.git
 EOF`
 cd /opt
 for i in $a

@@ -185,6 +185,7 @@ https://github.com/junks/linkedInScraper.git
 https://bitbucket.org/al14s/rawr.git
 https://github.com/rebootuser/LinEnum.git
 https://github.com/bidord/pykek.git
+https://github.com/moxie0/chapcrack.git
 EOF`
 cd /opt
 for i in $a

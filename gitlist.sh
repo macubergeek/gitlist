@@ -42,7 +42,6 @@ https://github.com/csete/gqrx.git
 https://github.com/texane/nrf.git
 https://github.com/EliasOenal/multimon-ng.git
 https://github.com/b00stfr3ak/misc.git
-https://github.com/pentestgeek/smbexec.git
 https://github.com/brav0hax/smbexec.git
 https://github.com/b00stfr3ak/fast_meterpreter.git
 https://code.google.com/p/lazykali/

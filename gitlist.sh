@@ -187,6 +187,7 @@ https://github.com/bidord/pykek.git
 https://github.com/moxie0/chapcrack.git
 https://github.com/0xsauby/yasuo.git
 https://github.com/NetSPI/cmdsql.git
+https://github.com/Veil-Framework/PowerTools.git
 EOF`
 cd /opt
 for i in $a

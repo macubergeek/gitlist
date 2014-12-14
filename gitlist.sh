@@ -186,6 +186,7 @@ https://github.com/rebootuser/LinEnum.git
 https://github.com/bidord/pykek.git
 https://github.com/moxie0/chapcrack.git
 https://github.com/0xsauby/yasuo.git
+https://github.com/NetSPI/cmdsql.git
 EOF`
 cd /opt
 for i in $a

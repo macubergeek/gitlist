@@ -189,6 +189,8 @@ https://github.com/0xsauby/yasuo.git
 https://github.com/NetSPI/cmdsql.git
 https://github.com/Veil-Framework/PowerTools.git
 https://bitbucket.org/R4v3N/wp-plug.git
+https://github.com/leechristensen/UnmanagedPowerShell.git
+https://github.com/trustedsec/hash_parser.git
 EOF`
 cd /opt
 for i in $a

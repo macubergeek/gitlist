@@ -66,6 +66,7 @@ https://www.dropbox.com/s/1j6v6zbtsdg1kam/Kerberoast.pdf
 https://github.com/gentilkiwi/mimikatz/releases/download/2.0.0-alpha-20141010/mimikatz_trunk.7z
 http://www.ampliasecurity.com/research/wce_v1_41beta_universal.zip
 https://github.com/gentilkiwi/mimikatz/releases/download/2.0.0-alpha-20141213/mimikatz_trunk.7z
+https://web.archive.org/web/20130806142902/http://download.sysinternals.com/files/Procdump.zip
 EOF`
 cd /opt
 for i in $a

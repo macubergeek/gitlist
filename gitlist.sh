@@ -191,6 +191,9 @@ https://github.com/Veil-Framework/PowerTools.git
 https://bitbucket.org/R4v3N/wp-plug.git
 https://github.com/leechristensen/UnmanagedPowerShell.git
 https://github.com/trustedsec/hash_parser.git
+https://github.com/smunaut/osmo-pocsag.git
+https://github.com/bafe/gr-pocsag.git
+git://git.osmocom.org/gr-osmosdr
 EOF`
 cd /opt
 for i in $a

@@ -194,6 +194,7 @@ https://github.com/trustedsec/hash_parser.git
 https://github.com/smunaut/osmo-pocsag.git
 https://github.com/bafe/gr-pocsag.git
 git://git.osmocom.org/gr-osmosdr
+https://github.com/mitmproxy/mitmproxy.git
 EOF`
 cd /opt
 for i in $a

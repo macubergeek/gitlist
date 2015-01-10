@@ -71,6 +71,7 @@ https://www.trustedsec.com/files/encrypted_http_shell.zip
 https://www.trustedsec.com/files/SqlBrute.zip
 https://www.trustedsec.com/files/delldrac.py
 http://download.sysinternals.com/files/PSTools.zip
+https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.4.2.deb
 EOF`
 cd /opt
 for i in $a

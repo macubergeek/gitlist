@@ -196,6 +196,7 @@ https://github.com/bafe/gr-pocsag.git
 git://git.osmocom.org/gr-osmosdr
 https://github.com/mitmproxy/mitmproxy.git
 https://github.com/vk496/linset.git
+git clone https://github.com/galkan/crowbar
 EOF`
 cd /opt
 for i in $a

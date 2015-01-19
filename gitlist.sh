@@ -106,7 +106,6 @@ https://github.com/dcramer/chardet.git
 https://github.com/client9/sslassert.git
 https://github.com/toddsiegel/spscan.git
 https://github.com/EarToEarOak/RTLSDR-Scanner.git
-https://github.com/merbanan/rtl_433.git
 https://github.com/kevinmehall/rtlsdr-433m-sensor.git
 https://github.com/bemasher/rtlamr.git
 https://github.com/nickodell/morse-code.git
@@ -196,7 +195,8 @@ https://github.com/bafe/gr-pocsag.git
 git://git.osmocom.org/gr-osmosdr
 https://github.com/mitmproxy/mitmproxy.git
 https://github.com/vk496/linset.git
-git clone https://github.com/galkan/crowbar
+https://github.com/galkan/crowbar
+https://github.com/covertcodes/freqwatch.git
 EOF`
 cd /opt
 for i in $a

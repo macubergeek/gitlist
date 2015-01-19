@@ -72,6 +72,7 @@ https://www.trustedsec.com/files/SqlBrute.zip
 https://www.trustedsec.com/files/delldrac.py
 http://download.sysinternals.com/files/PSTools.zip
 https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.4.2.deb
+http://www.w1hkj.com/downloads/fldigi/fldigi-3.22.05.tar.gz
 EOF`
 cd /opt
 for i in $a

@@ -74,6 +74,7 @@ http://download.sysinternals.com/files/PSTools.zip
 https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.4.2.deb
 http://www.w1hkj.com/downloads/fldigi/fldigi-3.22.05.tar.gz
 http://www.wirelessdefence.org/Contents/Files/aircrack-ptw-1.0.0.tar.gz
+http://downloads.sourceforge.net/project/wapiti/wapiti/wapiti-2.3.0/wapiti-2.3.0.tar.gz
 EOF`
 cd /opt
 for i in $a

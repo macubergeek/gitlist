@@ -198,6 +198,7 @@ https://github.com/vk496/linset.git
 https://github.com/galkan/crowbar
 https://github.com/covertcodes/freqwatch.git
 https://github.com/sixdub/Minions.git
+git://github.com/kennethreitz/requests.git
 EOF`
 cd /opt
 for i in $a

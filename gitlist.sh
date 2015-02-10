@@ -202,6 +202,7 @@ git://github.com/kennethreitz/requests.git
 https://github.com/wireghoul/dotdotpwn.git
 https://github.com/superkojiman/dirtshell.git
 https://github.com/superkojiman/rfishell.git
+https://github.com/ikkisoft/bradamsa.git
 EOF`
 cd /opt
 for i in $a

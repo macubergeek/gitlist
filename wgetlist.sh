@@ -76,6 +76,8 @@ http://www.w1hkj.com/downloads/fldigi/fldigi-3.22.05.tar.gz
 http://www.wirelessdefence.org/Contents/Files/aircrack-ptw-1.0.0.tar.gz
 http://downloads.sourceforge.net/project/wapiti/wapiti/wapiti-2.3.0/wapiti-2.3.0.tar.gz
 https://github.com/ikkisoft/bradamsa/releases/download/v0.2/bradamsa0.2.jar
+https://owasp-testing-checklist.googlecode.com/files/OWASPTestingChecklist_v_1.0.xls
+https://fimap.googlecode.com/files/fimap_alpha_v09.tar.gz
 EOF`
 cd /opt
 for i in $a

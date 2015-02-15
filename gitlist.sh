@@ -204,6 +204,7 @@ https://github.com/superkojiman/dirtshell.git
 https://github.com/superkojiman/rfishell.git
 https://github.com/ikkisoft/bradamsa.git
 https://github.com/smicallef/spiderfoot.git
+https://github.com/invisiblethreat/peeper.git
 EOF`
 cd /opt
 for i in $a

@@ -84,3 +84,5 @@ for i in $a
 do
 wget --no-check-certificate $i
 done
+rm /opt/*.1
+rm /opt/*.2

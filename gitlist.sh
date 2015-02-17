@@ -207,6 +207,7 @@ https://github.com/smicallef/spiderfoot.git
 https://github.com/invisiblethreat/peeper.git
 https://github.com/devttys0/binwalk.git
 https://github.com/devttys0/binwalk.wiki.git
+https://github.com/TweekFawkes/White_Lightning.git
 EOF`
 cd /opt
 for i in $a

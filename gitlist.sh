@@ -209,6 +209,7 @@ https://github.com/devttys0/binwalk.git
 https://github.com/devttys0/binwalk.wiki.git
 https://github.com/TweekFawkes/White_Lightning.git
 https://github.com/danielmiessler/SecLists.git
+https://code.google.com/p/patator/
 EOF`
 cd /opt
 for i in $a

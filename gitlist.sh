@@ -211,6 +211,7 @@ https://github.com/TweekFawkes/White_Lightning.git
 https://github.com/danielmiessler/SecLists.git
 https://code.google.com/p/patator/
 https://github.com/argilo/sdr-examples.git
+https://github.com/milo2012/metasploitHelper.git
 EOF`
 cd /opt
 for i in $a

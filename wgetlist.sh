@@ -78,6 +78,8 @@ http://downloads.sourceforge.net/project/wapiti/wapiti/wapiti-2.3.0/wapiti-2.3.0
 https://github.com/ikkisoft/bradamsa/releases/download/v0.2/bradamsa0.2.jar
 https://owasp-testing-checklist.googlecode.com/files/OWASPTestingChecklist_v_1.0.xls
 https://fimap.googlecode.com/files/fimap_alpha_v09.tar.gz
+https://squirtle.googlecode.com/files/squirtle-1.1a.zip 
+http://sniff.su/Intercepter-NG.CE.05.zip
 EOF`
 cd /opt
 for i in $a

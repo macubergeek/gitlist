@@ -80,6 +80,7 @@ https://owasp-testing-checklist.googlecode.com/files/OWASPTestingChecklist_v_1.0
 https://fimap.googlecode.com/files/fimap_alpha_v09.tar.gz
 https://squirtle.googlecode.com/files/squirtle-1.1a.zip 
 http://sniff.su/Intercepter-NG.CE.05.zip
+http://comax.fr/yamas/bt5/yamas.sh
 EOF`
 cd /opt
 for i in $a

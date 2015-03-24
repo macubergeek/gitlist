@@ -1,7 +1,6 @@
 #!/bin/bash
 a=`cat <<-EOF
 https://github.com/urbanesec/ZackAttack.git
-https://github.com/veil-evasion/Veil.git
 https://github.com/rogueclown/recon-scripts.git
 https://bitbucket.org/LaNMaSteR53/recon-ng.git
 https://bitbucket.org/LaNMaSteR53/honeybadger.git
@@ -30,7 +29,6 @@ https://github.com/ianic/mssql.git
 https://github.com/milo2012/osintstalker.git
 https://github.com/mossmann/hackrf.git
 https://github.com/rsmudge/cortana-scripts.git
-https://github.com/Veil-Framework/Veil-Catapult.git
 https://github.com/mubix/vt-notify.git
 https://github.com/wick2o/gitDigger.git
 https://github.com/Hood3dRob1n/ShodanAPI.git
@@ -154,7 +152,6 @@ https://github.com/trustedsec/unicorn.git
 https://github.com/poweradminllc/PAExec.git
 https://github.com/HarmJ0y/PowerUp.git
 https://github.com/zeknox/scripts.git
-https://github.com/Veil-Framework/Veil-PowerView.git
 https://github.com/darkoperator/Posh-SecMod.git
 https://github.com/besimorhino/powercat.git
 https://github.com/vacmf/powershell-scripts.git
@@ -186,7 +183,6 @@ https://github.com/bidord/pykek.git
 https://github.com/moxie0/chapcrack.git
 https://github.com/0xsauby/yasuo.git
 https://github.com/NetSPI/cmdsql.git
-https://github.com/Veil-Framework/PowerTools.git
 https://bitbucket.org/R4v3N/wp-plug.git
 https://github.com/leechristensen/UnmanagedPowerShell.git
 https://github.com/trustedsec/hash_parser.git
@@ -212,6 +208,11 @@ https://github.com/danielmiessler/SecLists.git
 https://code.google.com/p/patator/
 https://github.com/argilo/sdr-examples.git
 https://github.com/milo2012/metasploitHelper.git
+https://github.com/Veil-Framework/Veil-Evasion.git
+https://github.com/Veil-Framework/PowerTools.git
+https://github.com/Veil-Framework/Veil.git
+https://github.com/Veil-Framework/Veil-Pillage.git
+https://github.com/Veil-Framework/Veil-Catapult.git
 EOF`
 cd /opt
 for i in $a

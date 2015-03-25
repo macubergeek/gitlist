@@ -213,6 +213,7 @@ https://github.com/Veil-Framework/PowerTools.git
 https://github.com/Veil-Framework/Veil.git
 https://github.com/Veil-Framework/Veil-Pillage.git
 https://github.com/Veil-Framework/Veil-Catapult.git
+https://github.com/ChrisTruncer/EyeWitness.git
 EOF`
 cd /opt
 for i in $a

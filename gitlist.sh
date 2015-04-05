@@ -215,6 +215,7 @@ https://github.com/Veil-Framework/Veil-Pillage.git
 https://github.com/Veil-Framework/Veil-Catapult.git
 https://github.com/ChrisTruncer/EyeWitness.git
 https://github.com/SmeegeSec/HashTag.git
+https://github.com/gentilkiwi/mimikatz.git
 EOF`
 cd /opt
 for i in $a

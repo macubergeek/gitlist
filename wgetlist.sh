@@ -79,6 +79,7 @@ https://fimap.googlecode.com/files/fimap_alpha_v09.tar.gz
 https://squirtle.googlecode.com/files/squirtle-1.1a.zip 
 http://sniff.su/Intercepter-NG.CE.05.zip
 http://comax.fr/yamas/bt5/yamas.sh
+https://github.com/gentilkiwi/mimikatz/releases/download/2.0.0-alpha-20150402/mimikatz_trunk.7z
 EOF`
 cd /opt
 for i in $a

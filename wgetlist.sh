@@ -81,6 +81,7 @@ http://sniff.su/Intercepter-NG.CE.05.zip
 http://comax.fr/yamas/bt5/yamas.sh
 https://github.com/gentilkiwi/mimikatz/releases/download/2.0.0-alpha-20150402/mimikatz_trunk.7z
 http://downloads.sourceforge.net/project/airpwn/airpwn/1.4/airpwn-1.4.tgz
+https://code.google.com/p/skipfish/downloads/detail?name=skipfish-2.10b.tgz
 EOF`
 cd /opt
 for i in $a

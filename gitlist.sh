@@ -142,7 +142,7 @@ https://github.com/offensive-security/kali-sly-pi.git
 https://github.com/AdamLaurie/RFIDIOt.git
 https://github.com/Proxmark/proxmark3.git
 https://github.com/rezeusor/killerbee.git
-https://github.com/kanzure/impacket.git
+https://github.com/CoreSecurity/impacket.git
 https://github.com/Miserlou/Hash-Identifier.git
 https://github.com/freaklabs/chibiArduino.git
 https://bitbucket.org/skew/gyuto.git

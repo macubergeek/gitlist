@@ -217,6 +217,7 @@ https://github.com/ChrisTruncer/EyeWitness.git
 https://github.com/SmeegeSec/HashTag.git
 https://github.com/gentilkiwi/mimikatz.git
 https://github.com/malerisch/burp-csj.git
+https://github.com/ShawnDEvans/smbmap.git
 EOF`
 cd /opt
 for i in $a

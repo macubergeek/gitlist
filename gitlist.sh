@@ -218,6 +218,7 @@ https://github.com/SmeegeSec/HashTag.git
 https://github.com/gentilkiwi/mimikatz.git
 https://github.com/malerisch/burp-csj.git
 https://github.com/ShawnDEvans/smbmap.git
+https://github.com/stephenfewer/ReflectiveDLLInjection.git
 EOF`
 cd /opt
 for i in $a

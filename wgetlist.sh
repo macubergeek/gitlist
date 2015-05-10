@@ -85,6 +85,7 @@ https://code.google.com/p/skipfish/downloads/detail?name=skipfish-2.10b.tgz
 https://github.com/adafruit/Adafruit-Pi-Finder/releases/download/v2.0.1-beta/pibootstrap_linux64.tar.gz
 http://www.securitysift.com/download/linuxprivchecker.py
 http://pentestmonkey.net/tools/unix-privesc-check/unix-privesc-check-1.4.tar.gz
+www.securitysift.com/download/linuxprivchecker.py
 EOF`
 cd /opt
 for i in $a

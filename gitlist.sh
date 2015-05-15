@@ -223,6 +223,8 @@ https://github.com/SecureNetworkManagement/shellshockUAscanner.git
 https://github.com/glentregoning/mitmtest.git
 https://github.com/rebootuser/LinEnum.git
 https://github.com/breenmachine/httpscreenshot.git
+https://github.com/sethsec/crossdomain-exploitation-framework.git
+https://github.com/gursev/flash-xdomain-xploit.git
 EOF`
 cd /opt
 for i in $a

@@ -86,6 +86,10 @@ https://github.com/adafruit/Adafruit-Pi-Finder/releases/download/v2.0.1-beta/pib
 http://www.securitysift.com/download/linuxprivchecker.py
 http://pentestmonkey.net/tools/unix-privesc-check/unix-privesc-check-1.4.tar.gz
 www.securitysift.com/download/linuxprivchecker.py
+https://www.trustedsec.com/files/PowerShell_PoC.zip
+https://www.trustedsec.com/files/egressbuster.zip
+https://www.trustedsec.com/files/encrypted_http_shell.zip
+https://www.trustedsec.com/files/egress_buster_revshell.zip
 EOF`
 cd /opt
 for i in $a

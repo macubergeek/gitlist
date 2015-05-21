@@ -90,6 +90,7 @@ https://www.trustedsec.com/files/PowerShell_PoC.zip
 https://www.trustedsec.com/files/egressbuster.zip
 https://www.trustedsec.com/files/encrypted_http_shell.zip
 https://www.trustedsec.com/files/egress_buster_revshell.zip
+http://marathontool.codeplex.com/#
 EOF`
 cd /opt
 for i in $a

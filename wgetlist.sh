@@ -91,6 +91,7 @@ https://www.trustedsec.com/files/egressbuster.zip
 https://www.trustedsec.com/files/encrypted_http_shell.zip
 https://www.trustedsec.com/files/egress_buster_revshell.zip
 http://marathontool.codeplex.com/#
+https://raw.githubusercontent.com/SmeegeSec/Directory_File_Listing_Parser_Importer/master/Directory-File-Listing-Parser-Importer.py
 EOF`
 cd /opt
 for i in $a

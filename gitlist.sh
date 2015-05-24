@@ -226,6 +226,7 @@ https://github.com/breenmachine/httpscreenshot.git
 https://github.com/sethsec/crossdomain-exploitation-framework.git
 https://github.com/gursev/flash-xdomain-xploit.git
 https://github.com/NetSPI/Wsdler/archive/master.zip
+https://github.com/rustyrobot/fuzzdb.git
 EOF`
 cd /opt
 for i in $a

@@ -60,7 +60,6 @@ http://live.sysinternals.com/psexec.exe
 http://www.wxtoimg.com/downloads/wxtoimg-linux64-2.10.11-1.tar.gz
 http://debianuser.org/bruteforce/passlist.txt
 http://debianuser.org/bruteforce/brutessh.zip
-sourceforge.net/projects/dnscat/files/latest/download/dnscat/0.01/dnscat-0.01.tar.gz
 http://downloads.sourceforge.net/jrdesktop/jrdesktop-0.2.0030.bin.zip
 https://www.dropbox.com/s/1j6v6zbtsdg1kam/Kerberoast.pdf
 http://www.ampliasecurity.com/research/wce_v1_41beta_universal.zip

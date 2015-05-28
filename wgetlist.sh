@@ -91,6 +91,20 @@ https://www.trustedsec.com/files/encrypted_http_shell.zip
 https://www.trustedsec.com/files/egress_buster_revshell.zip
 http://marathontool.codeplex.com/#
 https://raw.githubusercontent.com/SmeegeSec/Directory_File_Listing_Parser_Importer/master/Directory-File-Listing-Parser-Importer.py
+http://www.ittools.se/security%20tools/gsecdump-0.6-win32.zip
+http://www.ittools.se/security%20tools/gsecdump-v2b5.exe
+http://www.ittools.se/security%20tools/IeInfo.exe
+http://www.ittools.se/security%20tools/iTouch.exe
+http://www.ittools.se/security%20tools/lslsass32.exe
+http://www.ittools.se/security%20tools/lslsass64.exe
+http://www.ittools.se/security%20tools/MssqlBf.exe
+http://www.ittools.se/security%20tools/msvctl_0.3.zip
+http://www.ittools.se/security%20tools/ntdd.exe
+http://www.ittools.se/security%20tools/ntlsobj.exe
+http://www.ittools.se/security%20tools/parallel_task.js
+http://www.ittools.se/security%20tools/runhash32.exe
+http://www.ittools.se/security%20tools/runhash64.exe
+http://www.ittools.se/security%20tools/vscompat2k.exe
 EOF`
 cd /opt
 for i in $a

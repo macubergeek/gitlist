@@ -228,6 +228,7 @@ https://github.com/gursev/flash-xdomain-xploit.git
 https://github.com/NetSPI/Wsdler/archive/master.zip
 https://github.com/rustyrobot/fuzzdb.git
 https://github.com/iagox86/dnscat2.git
+https://github.com/sixdub/DomainTrustExplorer.git
 EOF`
 cd /opt
 for i in $a

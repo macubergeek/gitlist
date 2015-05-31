@@ -228,6 +228,7 @@ https://github.com/NetSPI/Wsdler/archive/master.zip
 https://github.com/rustyrobot/fuzzdb.git
 https://github.com/iagox86/dnscat2.git
 https://github.com/sixdub/DomainTrustExplorer.git
+https://github.com/codewatchorg/sqlipy.git
 EOF`
 cd /opt
 for i in $a

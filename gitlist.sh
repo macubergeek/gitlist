@@ -229,6 +229,9 @@ https://github.com/rustyrobot/fuzzdb.git
 https://github.com/iagox86/dnscat2.git
 https://github.com/sixdub/DomainTrustExplorer.git
 https://github.com/docker/docker.git
+https://github.com/stasinopoulos/commix.git
+https://github.com/hatRiot/zarp.git
+https://github.com/infobyte/faraday.git
 EOF`
 cd /opt
 for i in $a

@@ -232,6 +232,7 @@ https://github.com/docker/docker.git
 https://github.com/stasinopoulos/commix.git
 https://github.com/hatRiot/zarp.git
 https://github.com/infobyte/faraday.git
+https://github.com/Hood3dRob1n/addicted2hash.git
 EOF`
 cd /opt
 for i in $a

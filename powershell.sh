@@ -13,6 +13,7 @@ https://github.com/Veil-Framework/Veil-Catapult.git
 https://github.com/rvrsh3ll/POSH-Commander.git
 https://github.com/PyroTek3/PowerShell-AD-Recon.git
 https://github.com/mattifestation/PowerShellArsenal.git
+https://github.com/Veil-Framework/Veil-Pillage.git
 EOF`
 cd /var/www
 for i in $a

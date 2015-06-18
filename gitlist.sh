@@ -235,6 +235,7 @@ https://github.com/infobyte/faraday.git
 https://github.com/Hood3dRob1n/addicted2hash.git
 https://github.com/byt3bl33d3r/gcat.git 
 https://github.com/enigma0x3/Generate-Macro.git
+https://github.com/tcstool/NoSQLMap.git
 EOF`
 cd /opt
 for i in $a

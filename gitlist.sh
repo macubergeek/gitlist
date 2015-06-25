@@ -9,7 +9,6 @@ http://ptscripts.googlecode.com/svn/trunk/windows/vssown.vbs
 https://github.com/toolswatch/DPE.git
 https://github.com/mubix/post-exploitation.git
 https://github.com/1aN0rmus/TekDefense-Automater.git
-https://github.com/secretsquirrel/the-backdoor-factory.git
 https://github.com/ornicar/backdoor.git
 https://github.com/SpiderLabs/BurpNotesExtension.git
 https://github.com/SmeegeSec/WSDLWizard.git
@@ -47,7 +46,6 @@ git://git.gnumonks.org/airprobe.git
 git://git.srlabs.de/kraken.git
 https://github.com/fgont/ipv6toolkit.git
 https://github.com/mattifestation/PowerSploit.git
-https://github.com/ChrisTruncer/EyeWitness.git
 https://github.com/urbanadventurer/WhatWeb.git
 https://github.com/mhendrickx/Lilith.git
 https://github.com/cr0hn/golismero.git
@@ -72,9 +70,7 @@ https://github.com/QBurst/PenQ.git
 https://github.com/MooseDojo/Serpico.git
 https://github.com/SpiderLabs/Responder.git
 https://github.com/mattifestation/PowerSploit.git
-https://github.com/danielmiessler/SecLists.git
 https://github.com/TigerSecurity/gerix-wifi-cracker.git
-https://github.com/ChrisTruncer/EyeWitness.git
 http://www.openvas.org/download/wmi/wmi-1.3.14.tar.bz2:
 https://github.com/wpscanteam/wpscan.git
 https://github.com/mubix/WhiteChapel.git
@@ -211,7 +207,6 @@ https://github.com/Veil-Framework/PowerTools.git
 https://github.com/Veil-Framework/Veil.git
 https://github.com/Veil-Framework/Veil-Pillage.git
 https://github.com/Veil-Framework/Veil-Catapult.git
-https://github.com/ChrisTruncer/EyeWitness.git
 https://github.com/SmeegeSec/HashTag.git
 https://github.com/gentilkiwi/mimikatz.git
 https://github.com/malerisch/burp-csj.git
@@ -240,6 +235,10 @@ https://github.com/cheetz/spearphishing.git
 https://github.com/cheetz/adobe_password_checker.git
 https://github.com/cheetz/Web_Password_Gen.git
 https://github.com/cheetz/brutescrape.git
+https://github.com/ChrisTruncer/EyeWitness.git
+https://github.com/MaYaSeVeN/Wmap.git
+https://github.com/sophron/wifiphisher.git
+https://github.com/cheetz/Easy-P.git
 EOF`
 cd /opt
 for i in $a

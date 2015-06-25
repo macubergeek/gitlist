@@ -236,6 +236,11 @@ https://github.com/Hood3dRob1n/addicted2hash.git
 https://github.com/byt3bl33d3r/gcat.git 
 https://github.com/enigma0x3/Generate-Macro.git
 https://github.com/tcstool/NoSQLMap.git
+https://github.com/cheetz/pi_phone_home.git
+https://github.com/cheetz/spearphishing.git
+https://github.com/cheetz/adobe_password_checker.git
+https://github.com/cheetz/Web_Password_Gen.git
+https://github.com/cheetz/brutescrape.git
 EOF`
 cd /opt
 for i in $a

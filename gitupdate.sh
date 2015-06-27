@@ -1,6 +1,6 @@
 #!/bin/bash
 cd /opt
-for i in `ls | grep -v *.tar.gz`
+for i in `ls`
 do
 cd $i
 sudo git pull

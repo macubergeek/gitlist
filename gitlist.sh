@@ -239,6 +239,12 @@ https://github.com/ChrisTruncer/EyeWitness.git
 https://github.com/MaYaSeVeN/Wmap.git
 https://github.com/sophron/wifiphisher.git
 https://github.com/cheetz/Easy-P.git
+https://github.com/michenriksen/gitrob.git
+https://github.com/secforce/sparta.git
+https://github.com/breenmachine/httpscreenshot.git
+https://github.com/ChrisTruncer/EyeWitness.git
+https://github.com/HackerFantastic/Public.git
+https://github.com/cheetz/icmpshock.git
 EOF`
 cd /opt
 for i in $a

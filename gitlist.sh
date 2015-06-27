@@ -245,6 +245,7 @@ https://github.com/breenmachine/httpscreenshot.git
 https://github.com/ChrisTruncer/EyeWitness.git
 https://github.com/HackerFantastic/Public.git
 https://github.com/cheetz/icmpshock.git
+https://github.com/rapid7/ssh-badkeys.git
 EOF`
 cd /opt
 for i in $a

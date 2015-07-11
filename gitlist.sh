@@ -246,6 +246,8 @@ https://github.com/ChrisTruncer/EyeWitness.git
 https://github.com/HackerFantastic/Public.git
 https://github.com/cheetz/icmpshock.git
 https://github.com/rapid7/ssh-badkeys.git
+https://github.com/sbehrens/sleepy-puppy.git
+https://github.com/trustedsec/social-engineer-toolkit.git
 EOF`
 cd /opt
 for i in $a

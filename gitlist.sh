@@ -249,6 +249,7 @@ https://github.com/rapid7/ssh-badkeys.git
 https://github.com/sbehrens/sleepy-puppy.git
 https://github.com/trustedsec/social-engineer-toolkit.git
 https://github.com/tatanus/SPF.git
+https://github.com/obscuresec/random.git
 EOF`
 cd /opt
 for i in $a

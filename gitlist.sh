@@ -251,7 +251,7 @@ https://github.com/trustedsec/social-engineer-toolkit.git
 https://github.com/tatanus/SPF.git
 https://github.com/obscuresec/random.git
 https://github.com/jkakavas/creepy.git
-
+https://github.com/evilsocket/bettercap.git
 EOF`
 cd /opt
 for i in $a

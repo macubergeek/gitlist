@@ -252,6 +252,9 @@ https://github.com/tatanus/SPF.git
 https://github.com/obscuresec/random.git
 https://github.com/jkakavas/creepy.git
 https://github.com/evilsocket/bettercap.git
+https://github.com/EiNSTeiN-/poodle.git
+https://github.com/mpgn/poodle-exploit.git
+https://github.com/JayBeale/middler.git
 EOF`
 cd /opt
 for i in $a

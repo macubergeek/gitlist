@@ -255,6 +255,8 @@ https://github.com/evilsocket/bettercap.git
 https://github.com/EiNSTeiN-/poodle.git
 https://github.com/mpgn/poodle-exploit.git
 https://github.com/JayBeale/middler.git
+https://github.com/felmoltor/DNSSnoopDogg.git
+https://github.com/z0mbiehunt3r/dns-snoopy.git
 EOF`
 cd /opt
 for i in $a

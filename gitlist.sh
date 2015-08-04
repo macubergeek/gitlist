@@ -257,6 +257,7 @@ https://github.com/mpgn/poodle-exploit.git
 https://github.com/JayBeale/middler.git
 https://github.com/felmoltor/DNSSnoopDogg.git
 https://github.com/z0mbiehunt3r/dns-snoopy.git
+https://github.com/GDSSecurity/SSH-Weak-DH.git
 EOF`
 cd /opt
 for i in $a

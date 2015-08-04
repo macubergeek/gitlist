@@ -105,6 +105,7 @@ http://www.ittools.se/security%20tools/runhash64.exe
 http://www.ittools.se/security%20tools/vscompat2k.exe
 https://raw.githubusercontent.com/carnal0wnage/Metasploit-Code/master/modules/post/windows/gather/gold_digger.rb
 https://github.com/ChrisTruncer/Egress-Assess/archive/1.0.zip
+https://github.com/xtr4nge/FruityWifi/archive/v2.2.zip
 EOF`
 cd /opt
 for i in $a

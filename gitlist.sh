@@ -258,6 +258,8 @@ https://github.com/JayBeale/middler.git
 https://github.com/felmoltor/DNSSnoopDogg.git
 https://github.com/z0mbiehunt3r/dns-snoopy.git
 https://github.com/GDSSecurity/SSH-Weak-DH.git
+https://github.com/trustedsec/ptf
+https://github.com/trustedsec/meterssh.git
 EOF`
 cd /opt
 for i in $a

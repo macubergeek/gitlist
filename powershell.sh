@@ -10,7 +10,7 @@ https://github.com/PyroTek3/PowerShell-AD-Recon.git
 https://github.com/mattifestation/PowerShellArsenal.git
 https://github.com/Veil-Framework/Veil.git
 EOF`
-cd /var/www
+cd ../
 for i in $a
 do
 git clone $i

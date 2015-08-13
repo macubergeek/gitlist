@@ -50,7 +50,6 @@ https://github.com/urbanadventurer/WhatWeb.git
 https://github.com/mhendrickx/Lilith.git
 https://github.com/cr0hn/golismero.git
 https://github.com/mandatoryprogrammer/xssless.git
-https://github.com/themightyshiv/buildvpn.git
 https://github.com/zmap/zmap.git
 https://github.com/robertdavidgraham/masscan.git
 https://github.com/tiwaryshailesh/Masscan-For-Metasploit.git

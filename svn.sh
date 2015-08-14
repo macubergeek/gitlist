@@ -7,7 +7,7 @@ https://svn.code.sf.net/p/jbrofuzz/code/ jbrofuzz
 http://domsnitch.googlecode.com/svn/trunk/ domsnitch-read-only
 http://unix-privesc-check.googlecode.com/svn/trunk/ unix-privesc-check-read-only
 EOF`
-cd ../
+cd /opt
 for i in $a
 do
 svn checkout $i

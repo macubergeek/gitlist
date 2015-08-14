@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/carnal0wnage/Metasploit-Code/master/modules/po
 https://github.com/ChrisTruncer/Egress-Assess/archive/1.0.zip
 https://github.com/xtr4nge/FruityWifi/archive/v2.2.zip
 EOF`
-cd /opt
+cd ../
 for i in $a
 do
 wget --no-check-certificate $i

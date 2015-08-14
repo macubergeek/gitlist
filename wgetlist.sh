@@ -14,7 +14,6 @@ http://dev.zenoss.org/svn/trunk/inst/externallibs/wmi-1.3.7.tar.bz2
 https://labs.portcullis.co.uk/download/enum4linux-0.8.9.tar.gz 
 http://www.exploit-db.com/download/19091
 http://www.ampliasecurity.com/research/wce_v1_4beta_x32.zip
-http://pastebin.com/download.php?i=TE3fvhEh
 https://raw.githubusercontent.com/zacinaction/kicksat-groundstation/master/SpriteReceiver.grc 
 https://github.com/CCSIR/PHP-EXIF-Backdoors-generator-using-custom-shellcode/raw/master/shellcode.php 
 http://downloads.sourceforge.net/project/aspshell/aspshell/aspshell%200.2/aspshell-0.2.zip

@@ -261,6 +261,10 @@ https://github.com/trustedsec/ptf
 https://github.com/trustedsec/meterssh.git
 https://github.com/PowerShellEmpire/Empire.git
 https://github.com/spinkham/skipfish.git
+https://github.com/RetireJS/retire.js.git
+https://github.com/jhaddix/domain.git
+https://github.com/Dionach/CMSmap.git
+https://github.com/intrigueio/intrigue-core.git
 EOF`
 cd /opt
 for i in $a

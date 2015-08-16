@@ -265,6 +265,10 @@ https://github.com/RetireJS/retire.js.git
 https://github.com/jhaddix/domain.git
 https://github.com/Dionach/CMSmap.git
 https://github.com/intrigueio/intrigue-core.git
+https://github.com/debasishm89/burpy.git
+https://github.com/arvinddoraiswamy/mywebappscripts.git
+https://github.com/jhaddix/domain.git
+https://github.com/jhaddix/tbhm.git
 EOF`
 cd /opt
 for i in $a

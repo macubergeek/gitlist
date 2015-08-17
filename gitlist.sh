@@ -270,7 +270,7 @@ https://github.com/arvinddoraiswamy/mywebappscripts.git
 https://github.com/jhaddix/domain.git
 https://github.com/jhaddix/tbhm.git
 EOF`
-cd /opt
+cd ../
 for i in $a
 do
 

@@ -104,6 +104,8 @@ http://www.ittools.se/security%20tools/vscompat2k.exe
 https://raw.githubusercontent.com/carnal0wnage/Metasploit-Code/master/modules/post/windows/gather/gold_digger.rb
 https://github.com/ChrisTruncer/Egress-Assess/archive/1.0.zip
 https://github.com/xtr4nge/FruityWifi/archive/v2.2.zip
+http://www.andlabs.org/tools/sotf/Shell%20of%20the%20Future_v0.9.zip
+http://www.andlabs.org/tools/imposter/imposter_v0.9.zip
 EOF`
 cd ../
 for i in $a

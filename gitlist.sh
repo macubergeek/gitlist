@@ -269,6 +269,9 @@ https://github.com/debasishm89/burpy.git
 https://github.com/arvinddoraiswamy/mywebappscripts.git
 https://github.com/jhaddix/domain.git
 https://github.com/jhaddix/tbhm.git
+https://github.com/NytroRST/NetRipper.git
+https://github.com/Ali-Razmjoo/OWASP-ZSC.git
+https://github.com/Smaash/snitch.git
 EOF`
 cd ../
 for i in $a

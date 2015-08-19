@@ -272,6 +272,7 @@ https://github.com/jhaddix/tbhm.git
 https://github.com/NytroRST/NetRipper.git
 https://github.com/Ali-Razmjoo/OWASP-ZSC.git
 https://github.com/Smaash/snitch.git
+https://github.com/google/binnavi.git
 EOF`
 cd /opt
 for i in $a

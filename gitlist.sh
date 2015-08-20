@@ -272,6 +272,8 @@ https://github.com/jhaddix/tbhm.git
 https://github.com/NytroRST/NetRipper.git
 https://github.com/Ali-Razmjoo/OWASP-ZSC.git
 https://github.com/Smaash/snitch.git
+https://github.com/google/binnavi.git
+https://github.com/dagorim/api_wordlist.git
 EOF`
 cd ../
 for i in $a

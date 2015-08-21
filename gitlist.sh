@@ -278,6 +278,7 @@ https://github.com/enjoiz/XXEinjector.git
 https://github.com/yorickdewid/Wordgen.git
 https://github.com/gojhonny/CredCrack.git
 https://github.com/AbhishekGhosh/FREAK-Attack-CVE-2015-0204-Testing-Script.git
+git://git.code.sf.net/p/grendel/code grendel-code
 EOF`
 cd ../
 for i in $a

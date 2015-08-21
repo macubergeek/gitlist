@@ -274,10 +274,13 @@ https://github.com/Ali-Razmjoo/OWASP-ZSC.git
 https://github.com/Smaash/snitch.git
 https://github.com/google/binnavi.git
 https://github.com/dagorim/api_wordlist.git
+https://github.com/enjoiz/XXEinjector.git
+https://github.com/yorickdewid/Wordgen.git
+https://github.com/gojhonny/CredCrack.git
+https://github.com/AbhishekGhosh/FREAK-Attack-CVE-2015-0204-Testing-Script.git
 EOF`
 cd ../
 for i in $a
 do
-
 git clone $i
 done

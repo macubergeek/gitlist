@@ -107,7 +107,7 @@ https://github.com/xtr4nge/FruityWifi/archive/v2.2.zip
 http://www.andlabs.org/tools/sotf/Shell%20of%20the%20Future_v0.9.zip
 http://www.andlabs.org/tools/imposter/imposter_v0.9.zip
 EOF`
-cd ../
+cd /opt
 for i in $a
 do
 wget --no-check-certificate $i

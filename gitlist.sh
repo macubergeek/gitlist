@@ -280,7 +280,7 @@ https://github.com/gojhonny/CredCrack.git
 https://github.com/AbhishekGhosh/FREAK-Attack-CVE-2015-0204-Testing-Script.git
 https://github.com/IFGHou/Grendel-Scan.git
 EOF`
-cd ../
+cd /opt 
 for i in $a
 do
 git clone $i

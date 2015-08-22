@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /opt
+cd ../
 for i in `ls`
 do
 cd $i

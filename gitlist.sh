@@ -282,8 +282,10 @@ https://github.com/IFGHou/Grendel-Scan.git
 https://github.com/aircrack-ng/aircrack-ng.git
 https://github.com/twilsonb/jbrofuzz.git
 https://github.com/pentestmonkey/unix-privesc-check.git
+https://github.com/ajinabraham/YSO-Mobile-Security-Framework.git
+https://github.com/linux-can/can-utils.git
 EOF`
-cd /opt 
+cd ../ 
 for i in $a
 do
 git clone $i

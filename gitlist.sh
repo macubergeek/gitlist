@@ -279,6 +279,9 @@ https://github.com/yorickdewid/Wordgen.git
 https://github.com/gojhonny/CredCrack.git
 https://github.com/AbhishekGhosh/FREAK-Attack-CVE-2015-0204-Testing-Script.git
 https://github.com/IFGHou/Grendel-Scan.git
+https://github.com/aircrack-ng/aircrack-ng.git
+https://github.com/twilsonb/jbrofuzz.git
+https://github.com/pentestmonkey/unix-privesc-check.git
 EOF`
 cd /opt 
 for i in $a

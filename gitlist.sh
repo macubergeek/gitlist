@@ -288,6 +288,7 @@ https://github.com/RUB-NDS/WS-Attacker.git
 https://github.com/vetsin/SamlSnort.git
 https://github.com/mandatoryprogrammer/sonar.git
 https://github.com/milo2012/osintstalker.git
+https://github.com/exitnode/nmap-sqlite-output.git
 EOF`
 cd ../ 
 for i in $a

@@ -167,7 +167,6 @@ https://github.com/nccgroup/metasploitavevasion.git
 https://github.com/pentestgeek/phishing-frenzy.git
 https://github.com/pentestgeek/phishing-frenzy-templates.git
 https://github.com/AdamLaurie/RFIDIOt.git
-https://github.com/tjomk/wfuzz.git
 https://github.com/rainkid/httrack.git
 https://github.com/junks/linkedInScraper.git
 https://bitbucket.org/al14s/rawr.git

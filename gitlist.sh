@@ -291,6 +291,9 @@ https://github.com/exitnode/nmap-sqlite-output.git
 https://github.com/LionSec/wifresti.git
 https://github.com/dloss/python-pentest-tools.git
 https://github.com/tiwaryshailesh/MetasploitOnSteroids.git
+https://github.com/mattifestation/WMI_Backdoor.git
+https://github.com/NetSPI/cmdsql.git
+https://github.com/brad-anton/freeradius-wpe.git
 EOF`
 cd ../ 
 for i in $a

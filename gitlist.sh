@@ -290,6 +290,7 @@ https://github.com/milo2012/osintstalker.git
 https://github.com/exitnode/nmap-sqlite-output.git
 https://github.com/LionSec/wifresti.git
 https://github.com/dloss/python-pentest-tools.git
+https://github.com/tiwaryshailesh/MetasploitOnSteroids.git
 EOF`
 cd ../ 
 for i in $a

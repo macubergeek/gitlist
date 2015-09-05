@@ -109,6 +109,7 @@ http://www.andlabs.org/tools/imposter/imposter_v0.9.zip
 http://www.computec.ch/projekte/vulscan/download/nmap_nse_vulscan-2.0.tar.gz
 https://github.com/Arachni/arachni/releases/download/v1.2.1/arachni-1.2.1-0.5.7.1-linux-x86_64.tar.gz
 http://hostap.epitest.fi/releases/hostapd-2.2.tar.gz
+http://yehg.net/lab/pr0js/tools/breacher-optimized.zip
 EOF`
 cd ../
 for i in $a

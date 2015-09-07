@@ -111,6 +111,7 @@ https://github.com/Arachni/arachni/releases/download/v1.2.1/arachni-1.2.1-0.5.7.
 http://hostap.epitest.fi/releases/hostapd-2.2.tar.gz
 http://yehg.net/lab/pr0js/tools/breacher-optimized.zip
 https://goofile.googlecode.com/files/goofilev1.5.zip
+https://raw.githubusercontent.com/tennc/xss/master/xss-payloads/Xenotix-payloads.list
 EOF`
 cd ../
 for i in $a

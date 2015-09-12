@@ -112,7 +112,6 @@ http://hostap.epitest.fi/releases/hostapd-2.2.tar.gz
 http://yehg.net/lab/pr0js/tools/breacher-optimized.zip
 https://goofile.googlecode.com/files/goofilev1.5.zip
 https://raw.githubusercontent.com/tennc/xss/master/xss-payloads/Xenotix-payloads.list
-http://www.toolswatch.org/dpe/dpeparser.py
 EOF`
 cd ../
 for i in $a

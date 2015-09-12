@@ -296,6 +296,12 @@ https://github.com/NetSPI/cmdsql.git
 https://github.com/brad-anton/freeradius-wpe.git
 https://github.com/b00stfr3ak/fast_meterpreter.git
 https://github.com/tennc/webshell.git
+https://raw.githubusercontent.com/musalbas/heartbleed-masstest/master/ssltest.py
+https://gist.github.com/10100394.git
+https://gist.github.com/10174134.git
+https://github.com/decal/ssltest-stls.git
+https://github.com/ajinabraham/Static-DOM-XSS-Scanner.git
+https://github.com/gbrindisi/xsssniper.git
 EOF`
 cd ../ 
 for i in $a

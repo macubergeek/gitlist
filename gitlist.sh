@@ -302,6 +302,7 @@ https://gist.github.com/10174134.git
 https://github.com/decal/ssltest-stls.git
 https://github.com/ajinabraham/Static-DOM-XSS-Scanner.git
 https://github.com/gbrindisi/xsssniper.git
+https://github.com/portcullislabs/xssshell-xsstunnell.git
 EOF`
 cd ../ 
 for i in $a

@@ -213,7 +213,6 @@ https://github.com/stephenfewer/ReflectiveDLLInjection.git
 https://github.com/SecureNetworkManagement/shellshockUAscanner.git
 https://github.com/glentregoning/mitmtest.git
 https://github.com/rebootuser/LinEnum.git
-https://github.com/breenmachine/httpscreenshot.git
 https://github.com/sethsec/crossdomain-exploitation-framework.git
 https://github.com/gursev/flash-xdomain-xploit.git
 https://github.com/NetSPI/Wsdler/archive/master.zip
@@ -305,6 +304,7 @@ https://github.com/gbrindisi/xsssniper.git
 https://github.com/portcullislabs/xssshell-xsstunnell.git
 https://github.com/portcullislabs/rdp-sec-check.git
 https://github.com/averagesecurityguy/scripts.git
+https://github.com/MooseDojo/praedasploit.git
 EOF`
 cd ../ 
 for i in $a

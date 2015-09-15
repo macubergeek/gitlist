@@ -305,6 +305,7 @@ https://github.com/portcullislabs/xssshell-xsstunnell.git
 https://github.com/portcullislabs/rdp-sec-check.git
 https://github.com/averagesecurityguy/scripts.git
 https://github.com/MooseDojo/praedasploit.git
+https://github.com/byt3bl33d3r/CrackMapExec.git
 EOF`
 cd ../ 
 for i in $a

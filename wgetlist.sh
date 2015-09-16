@@ -113,6 +113,7 @@ http://yehg.net/lab/pr0js/tools/breacher-optimized.zip
 https://goofile.googlecode.com/files/goofilev1.5.zip
 https://raw.githubusercontent.com/tennc/xss/master/xss-payloads/Xenotix-payloads.list
 https://github.com/byt3bl33d3r/gcat/archive/master.zip
+http://ptscripts.googlecode.com/svn/trunk/dshashes.py
 EOF`
 cd ../
 for i in $a

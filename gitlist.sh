@@ -306,6 +306,7 @@ https://github.com/portcullislabs/rdp-sec-check.git
 https://github.com/averagesecurityguy/scripts.git
 https://github.com/MooseDojo/praedasploit.git
 https://github.com/byt3bl33d3r/CrackMapExec.git
+https://bitbucket.org/mattinfosec/wordhound.git
 EOF`
 cd ../ 
 for i in $a

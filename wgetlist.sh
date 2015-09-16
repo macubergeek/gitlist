@@ -47,7 +47,6 @@ https://autosploit.googlecode.com/files/autosploit.pl
 http://downloads.sourceforge.net/project/watobo/watobo_0.9.5rev226.zip
 http://www.baudline.com/baudline_1.08_linux_x86_64.tar.gz
 http://www.sharebrained.com/downloads/gnuradio/microphone_shure.grc
-http://code.metager.de/source/xref/gnu/gnuradio/gr-digital/examples/demod/dpsk_loopback.grc
 https://github.com/greatscottgadgets/ubertooth/archive/2014-04-R1.tar.gz
 https://github.com/downloads/hpux735/Cocoa-Radio/CocoaRadio.zip
 http://nodejs.org/dist/v0.10.31/node-v0.10.31-linux-x64.tar.gz

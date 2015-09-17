@@ -308,6 +308,8 @@ https://github.com/MooseDojo/praedasploit.git
 https://github.com/byt3bl33d3r/CrackMapExec.git
 https://bitbucket.org/mattinfosec/wordhound.git
 https://github.com/cheetz/reddit_xss.git
+https://github.com/epinna/weevely3.git
+https://github.com/fireeye/synfulknock.git
 EOF`
 cd ../ 
 for i in $a

@@ -114,6 +114,7 @@ https://raw.githubusercontent.com/tennc/xss/master/xss-payloads/Xenotix-payloads
 https://github.com/byt3bl33d3r/gcat/archive/master.zip
 http://ptscripts.googlecode.com/svn/trunk/dshashes.py
 https://raw.githubusercontent.com/HackerFantastic/Public/master/exploits/heartbleed.c
+https://github.com/OWASP/O-Saft/raw/master/o-saft.tgz
 EOF`
 cd ../
 for i in $a

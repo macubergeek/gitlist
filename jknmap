@@ -15,30 +15,29 @@ sudo nmap -sV -sC $1
 sudo nmap -sV -sC -vv $1 
 #sudo nmap --script=ssl-date $1 && \ 
 echo "Enumerating SSL ciphers." && \
-sudo nmap --script ssl-enum-ciphers -p 443 $1 -oN ciphers.txt && \
+sudo nmap --script ssl-enum-ciphers -p 443 $1 && \
 echo "Enumerating Accepted Ciphers with SSLscan" && \
 sslscan $1 | grep Accepted > sslscan-accepted.txt && \
 echo "Checking for heartbleed." && \
-sudo nmap -p 443 --script ssl-heartbleed $1 -oN heartbleed.txt && \
+sudo nmap -p 443 --script ssl-heartbleed $1 && \
 echo "Checking for ssl known key." && \
-sudo nmap --script ssl-known-key -p 443 $1 -oN known-key.txt && \
+sudo nmap --script ssl-known-key -p 443 $1 && \
 echo "Checking for POODLE" && \
-sudo nmap -sV --version-light --script ssl-poodle -p 443 $1 -oN poodle.txt && \ 
+sudo nmap -sV --version-light --script ssl-poodle -p 443 $1 && \ 
 echo "Checking for HTTP methods." && \
-sudo nmap --script http-methods --script-args http.url-path='/' $1 -oN methods.txt && \
+sudo nmap --script http-methods --script-args http.url-path='/' $1  && \
 echo "Checking for TRACE method." && \ 
-sudo nmap --script http-trace -d $1 -oN http-trace && \ 
+sudo nmap --script http-trace -d $1 && \ 
 echo "Checking for method tamper." && \
-sudo nmap -sV --script http-method-tamper $1 -oN method-tamper.txt && \ 
+sudo nmap -sV --script http-method-tamper $1 && \ 
 echo "Checking for slowloris" && \
-sudo nmap --script http-slowloris-check $1 -oN slowloris.txt && \ 
-
-nmap -sV -sC -p 443 --script ssl-enum-ciphers,ssl-heartbleed,ssl-known-key,ssl-poodle,http-trace,http-method-tamper,http-slowloris-check $1 -oN all-cipher-checks && \
+sudo nmap --script http-slowloris-check $1 && \ 
+echo "--SYNFULKNOCK--"
+nmap -sS -Pn -n -T4 -p 80 --script synfulknock $1
+echo TESTTESTTEST
+nmap -Pn -sV -sC -p 443,80 --script ssl-enum-ciphers,ssl-heartbleed,ssl-known-key,ssl-poodle,http-trace,http-method-tamper,http-slowloris-check,all-cipher-checks,synfulknock $1 && \
 #---------------------------------------------------------------------------------------
 
-#wpscan –url http://IP/ –enumerate p
 
 echo "--WHATWEB--" && \ 
-whatweb $1 && \ 
-echo "--SYNFULKNOCK--"
-nmap -sP -Pn -n -T4 -p 80 --script synfulknock $1
+whatweb $1

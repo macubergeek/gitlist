@@ -10,6 +10,7 @@ https://github.com/PyroTek3/PowerShell-AD-Recon.git
 https://github.com/mattifestation/PowerShellArsenal.git
 https://github.com/Veil-Framework/Veil.git
 https://github.com/PowerShellEmpire/Empire.git
+https://github.com/Shellntel/scripts.git
 EOF`
 cd /var/www
 for i in $a

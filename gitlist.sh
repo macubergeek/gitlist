@@ -310,6 +310,7 @@ https://bitbucket.org/mattinfosec/wordhound.git
 https://github.com/cheetz/reddit_xss.git
 https://github.com/epinna/weevely3.git
 https://github.com/fireeye/synfulknock.git
+https://gist.github.com/4461a4853ba0741b2a29.git
 EOF`
 cd ../ 
 for i in $a

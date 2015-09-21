@@ -1,6 +1,5 @@
 #!/bin/bash
 a=`cat <<-EOF
-http://www.thc.org/releases/thc-ipv6-2.5.tar.gz
 http://www.secmaniac.com/files/bypassuac.zip
 http://downloads.sourceforge.net/project/yokoso/yokoso-0.1/yokoso.0.1.tar.gz
 https://raw.github.com/hdm/scan-tools/master/nse/banner-plus.nse 

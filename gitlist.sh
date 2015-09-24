@@ -315,6 +315,7 @@ https://gist.github.com/1c4e34af21acb679641a.git
 https://github.com/evilpacket/DVCS-Pillage.git
 https://github.com/SYWorks/wifi-harvester.git
 https://github.com/drwetter/testssl.sh.git
+https://github.com/kussic/arlandria.git
 EOF`
 cd ../ 
 for i in $a

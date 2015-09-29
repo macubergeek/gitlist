@@ -316,6 +316,8 @@ https://github.com/evilpacket/DVCS-Pillage.git
 https://github.com/SYWorks/wifi-harvester.git
 https://github.com/drwetter/testssl.sh.git
 https://github.com/kussic/arlandria.git
+https://github.com/SYWorks/network_harvester.git
+https://github.com/SYWorks/wpa-bruteforcer.git
 EOF`
 cd ../ 
 for i in $a

@@ -321,6 +321,7 @@ https://github.com/SYWorks/wpa-bruteforcer.git
 https://github.com/AnimeshShaw/Hash-Algorithm-Identifier.git
 https://github.com/hybridus/heartbleedscanner.git
 https://github.com/hybridus/heartbleedscanner.git
+https://github.com/ChrisTruncer/Just-Metadata.git
 EOF`
 cd ../ 
 for i in $a

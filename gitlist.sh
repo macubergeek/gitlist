@@ -322,6 +322,7 @@ https://github.com/AnimeshShaw/Hash-Algorithm-Identifier.git
 https://github.com/hybridus/heartbleedscanner.git
 https://github.com/hybridus/heartbleedscanner.git
 https://github.com/ChrisTruncer/Just-Metadata.git
+https://bitbucket.org/clr2of8/autoscanwithburp.git
 EOF`
 cd ../ 
 for i in $a

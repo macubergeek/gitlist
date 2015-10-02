@@ -320,6 +320,7 @@ https://github.com/SYWorks/network_harvester.git
 https://github.com/SYWorks/wpa-bruteforcer.git
 https://github.com/AnimeshShaw/Hash-Algorithm-Identifier.git
 https://github.com/hybridus/heartbleedscanner.git
+https://github.com/hybridus/heartbleedscanner.git
 EOF`
 cd ../ 
 for i in $a

@@ -323,9 +323,20 @@ https://github.com/hybridus/heartbleedscanner.git
 https://github.com/hybridus/heartbleedscanner.git
 https://github.com/ChrisTruncer/Just-Metadata.git
 https://bitbucket.org/clr2of8/autoscanwithburp.git
+https://github.com/Shellntel/scripts.git
+https://github.com/cornerpirate/ReportCompiler.git
+https://github.com/funoverip/epowner.git
+https://github.com/foreni-packages/cisco-global-exploiter.git
+https://github.com/sandrogauci/tftptheft.git
+https://github.com/1N3/Findsploit.git
+https://github.com/CoderPirata/XPL-SEARCH.git
+https://github.com/xdistro/ShellShock.git
+https://github.com/jumanjihouse/docker-ssllabs-scan.git
 EOF`
 cd ../ 
-for i in $a
 do
 git clone $i
 done
+./wgetlist.sh
+./svn.sh
+./gitupdate.sh

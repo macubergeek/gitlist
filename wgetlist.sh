@@ -115,6 +115,7 @@ http://ptscripts.googlecode.com/svn/trunk/dshashes.py
 https://raw.githubusercontent.com/HackerFantastic/Public/master/exploits/heartbleed.c
 https://github.com/OWASP/O-Saft/raw/master/o-saft.tgz
 https://github.com/xtr4nge/FruityWifi/archive/v2.2.zip
+https://github.com/RandomStorm/Bluto/archive/v1.1.5.tar.gz
 EOF`
 cd ../
 for i in $a

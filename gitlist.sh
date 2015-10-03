@@ -338,6 +338,3 @@ for i in $a
 do
 git clone $i
 done
-./wgetlist.sh
-./svn.sh
-./gitupdate.sh

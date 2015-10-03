@@ -334,6 +334,7 @@ https://github.com/xdistro/ShellShock.git
 https://github.com/jumanjihouse/docker-ssllabs-scan.git
 EOF`
 cd ../ 
+for i in $a
 do
 git clone $i
 done

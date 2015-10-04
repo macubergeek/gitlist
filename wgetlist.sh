@@ -116,6 +116,8 @@ https://raw.githubusercontent.com/HackerFantastic/Public/master/exploits/heartbl
 https://github.com/OWASP/O-Saft/raw/master/o-saft.tgz
 https://github.com/xtr4nge/FruityWifi/archive/v2.2.zip
 https://github.com/RandomStorm/Bluto/archive/v1.1.5.tar.gz
+www.ernw.de/download/dnsdigger.zip
+http://lcamtuf.coredump.cx/afl/releases/afl-latest.tgz
 EOF`
 cd ../
 for i in $a

@@ -333,6 +333,7 @@ https://github.com/CoderPirata/XPL-SEARCH.git
 https://github.com/xdistro/ShellShock.git
 https://github.com/jumanjihouse/docker-ssllabs-scan.git
 https://github.com/ChrisTruncer/Just-Metadata.git
+https://github.com/Hypsurus/weeman.git
 EOF`
 cd ../ 
 for i in $a

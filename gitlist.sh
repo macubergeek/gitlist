@@ -287,6 +287,7 @@ https://github.com/vetsin/SamlSnort.git
 https://github.com/mandatoryprogrammer/sonar.git
 https://github.com/milo2012/osintstalker.git
 https://github.com/exitnode/nmap-sqlite-output.git
+https://github.com/nmap/nmap.git
 https://github.com/LionSec/wifresti.git
 https://github.com/dloss/python-pentest-tools.git
 https://github.com/tiwaryshailesh/MetasploitOnSteroids.git
@@ -334,6 +335,7 @@ https://github.com/xdistro/ShellShock.git
 https://github.com/jumanjihouse/docker-ssllabs-scan.git
 https://github.com/ChrisTruncer/Just-Metadata.git
 https://github.com/Hypsurus/weeman.git
+https://github.com/SSTCYR/nipper-ng.git
 EOF`
 cd ../ 
 for i in $a

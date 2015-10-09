@@ -118,6 +118,7 @@ https://github.com/xtr4nge/FruityWifi/archive/v2.2.zip
 https://github.com/RandomStorm/Bluto/archive/v1.1.5.tar.gz
 www.ernw.de/download/dnsdigger.zip
 http://lcamtuf.coredump.cx/afl/releases/afl-latest.tgz
+http://blog.0x0lab.org/wp-content/uploads/2010/06/dict_populator.zip
 EOF`
 cd ../
 for i in $a

@@ -337,7 +337,6 @@ https://github.com/ChrisTruncer/Just-Metadata.git
 https://github.com/Hypsurus/weeman.git
 https://github.com/SSTCYR/nipper-ng.git
 https://github.com/droe/sslsplit
-https://www.manning.com/promos/ebookoffer
 EOF`
 cd ../ 
 for i in $a

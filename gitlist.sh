@@ -338,6 +338,7 @@ https://github.com/Hypsurus/weeman.git
 https://github.com/SSTCYR/nipper-ng.git
 https://github.com/droe/sslsplit
 https://github.com/Kevin-Robertson/Inveigh.git
+https://github.com/NullArray/PyCat.git
 EOF`
 cd ../ 
 for i in $a

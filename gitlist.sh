@@ -339,6 +339,9 @@ https://github.com/SSTCYR/nipper-ng.git
 https://github.com/droe/sslsplit
 https://github.com/Kevin-Robertson/Inveigh.git
 https://github.com/NullArray/PyCat.git
+https://github.com/strictlymike/tools.git
+https://github.com/sullo/nikto.git
+https://github.com/ZilentJack/Get-ADHashDump.git
 EOF`
 cd ../ 
 for i in $a

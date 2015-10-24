@@ -342,6 +342,7 @@ https://github.com/NullArray/PyCat.git
 https://github.com/strictlymike/tools.git
 https://github.com/sullo/nikto.git
 https://github.com/ZilentJack/Get-ADHashDump.git
+https://github.com/dolevf/tracetester.git
 EOF`
 cd ../ 
 for i in $a

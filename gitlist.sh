@@ -345,6 +345,7 @@ https://github.com/ZilentJack/Get-ADHashDump.git
 https://github.com/dolevf/tracetester.git
 https://github.com/CoderPirata/XPL-SEARCH.git
 https://github.com/offwidth/http-tunnel-aes.git
+https://github.com/denandz/KeeFarce.git
 EOF`
 cd ../ 
 for i in $a

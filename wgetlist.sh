@@ -122,6 +122,7 @@ http://blog.0x0lab.org/wp-content/uploads/2010/06/dict_populator.zip
 http://hashcat.net/files/hashcat-0.50.7z
 http://home.btconnect.com/md5decrypter/HashcatGUI_044.zip
 https://github.com/entropy1337/infernal-twin/archive/master.zip
+http://downloads.sourceforge.net/project/isic/isic/ISIC%20v0.07/isic-0.07.tgz
 EOF`
 cd ../
 for i in $a

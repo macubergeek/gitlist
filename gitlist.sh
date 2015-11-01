@@ -155,7 +155,6 @@ https://github.com/kirill85/BlackSquirrel.git
 git://w1.fi/hostap.git
 https://github.com/SilverFoxx/PwnSTAR.git
 https://github.com/nidem/kerberoast.git
-https://github.com/silentbreaksec/Throwback.git
 https://github.com/silentbreaksec/ThrowbackLP.git
 https://github.com/roeyk/nessus-report.git
 https://github.com/travisgoodspeed/goodfet goodfet

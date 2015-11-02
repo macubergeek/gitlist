@@ -1,0 +1,5 @@
+workspaces select BCBS
+use discovery/info_disclosure/cache_snoop
+run
+use discovery/info_disclosure/interesting_files
+run

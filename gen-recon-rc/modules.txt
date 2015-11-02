@@ -29,9 +29,11 @@ recon/domains-credentials/pwnedlist/domain_ispwned
 recon/domains-credentials/pwnedlist/leak_lookup
 recon/domains-credentials/pwnedlist/leaks_dump
 recon/domains-hosts/baidu_site
+recon/domains-hosts/bing_domain_api
 recon/domains-hosts/bing_domain_web
 recon/domains-hosts/builtwith
 recon/domains-hosts/google_site_api
+recon/domains-hosts/google_site_web
 recon/domains-hosts/netcraft
 recon/domains-hosts/shodan_hostname
 recon/domains-hosts/ssl_san

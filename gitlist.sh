@@ -350,6 +350,7 @@ https://github.com/techgaun/github-dorks.git
 https://github.com/jgor/dork-cli.git
 https://github.com/quackware/dorky.git
 https://gist.github.com/5950305.git
+https://github.com/fuzzdb-project/fuzzdb.git
 EOF`
 cd ../ 
 for i in $a

@@ -1,0 +1,28 @@
+I may attempt to move over to the new VM to finish out the training tomorrow. We can decide
+as a class in the morning. In the mean time, use the following guide to remove the
+troublesome version of Java and install a functional version on the original VM, not the one
+we used for most of the day today. If you have any questions or issues, please contact me or
+arrive early tomorrow and I can help. Have a good evening.
+
+Remove old version of Java
+==========================
+sudo apt-get purge openjdk*
+
+Install new version of Java
+===========================
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+
+Verify Java install
+===================
+java -version
+
+Optional cleanup
+================
+sudo apt-get autoremove
+
+Tim Tomes
+@lanmaster53
+http://www.lanmaster53.com
+http://appsec.rocks

@@ -346,6 +346,10 @@ https://github.com/CoderPirata/XPL-SEARCH.git
 https://github.com/offwidth/http-tunnel-aes.git
 https://github.com/denandz/KeeFarce.git
 https://github.com/maurosoria/dirs3arch.git
+https://github.com/techgaun/github-dorks.git
+https://github.com/jgor/dork-cli.git
+https://github.com/quackware/dorky.git
+https://gist.github.com/5950305.git
 EOF`
 cd ../ 
 for i in $a

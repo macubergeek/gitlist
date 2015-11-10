@@ -2,7 +2,6 @@
 a=`cat <<-EOF
 http://downloads.sourceforge.net/project/yokoso/yokoso-0.1/yokoso.0.1.tar.gz
 https://raw.github.com/hdm/scan-tools/master/nse/banner-plus.nse 
-https://dl.dropbox.com/u/17744176/HDSDR%20OSX%202.51.dmg 
 https://labs.portcullis.co.uk/download/wordpress-build-review_v1.0.tar.gz 
 https://labs.portcullis.co.uk/download/rdp-sec-check-0.9.tgz 
 https://labs.portcullis.co.uk/download/allthevhosts.tar.gz 

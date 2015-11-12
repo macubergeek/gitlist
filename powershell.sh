@@ -11,6 +11,8 @@ https://github.com/mattifestation/PowerShellArsenal.git
 https://github.com/Veil-Framework/Veil.git
 https://github.com/PowerShellEmpire/Empire.git
 https://github.com/Shellntel/scripts.git
+https://github.com/secabstraction/PowerCat.git
+https://github.com/samratashok/nishang.git
 EOF`
 cd /var/www
 for i in $a

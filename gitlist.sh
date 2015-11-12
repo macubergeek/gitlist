@@ -353,6 +353,7 @@ https://gist.github.com/5950305.git
 https://github.com/fuzzdb-project/fuzzdb.git
 https://github.com/kahunalu/pwnbin.git
 https://github.com/secabstraction/PowerCat.git
+https://github.com/samratashok/nishang.git
 EOF`
 cd ../ 
 for i in $a

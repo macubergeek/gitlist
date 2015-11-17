@@ -354,6 +354,7 @@ https://github.com/fuzzdb-project/fuzzdb.git
 https://github.com/kahunalu/pwnbin.git
 https://github.com/secabstraction/PowerCat.git
 https://github.com/samratashok/nishang.git
+https://github.com/rapid7/ssh-badkeys.git
 EOF`
 cd ../ 
 for i in $a

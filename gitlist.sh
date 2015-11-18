@@ -354,7 +354,6 @@ https://github.com/fuzzdb-project/fuzzdb.git
 https://github.com/kahunalu/pwnbin.git
 https://github.com/secabstraction/PowerCat.git
 https://github.com/samratashok/nishang.git
-https://github.com/rapid7/ssh-badkeys.git
 https://github.com/ChrisTruncer/Egress-Assess.git
 EOF`
 cd ../ 

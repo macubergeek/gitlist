@@ -355,6 +355,7 @@ https://github.com/kahunalu/pwnbin.git
 https://github.com/secabstraction/PowerCat.git
 https://github.com/samratashok/nishang.git
 https://github.com/ChrisTruncer/Egress-Assess.git
+https://github.com/nccgroup/chuckle.git
 EOF`
 cd ../ 
 for i in $a

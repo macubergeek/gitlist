@@ -356,6 +356,7 @@ https://github.com/secabstraction/PowerCat.git
 https://github.com/samratashok/nishang.git
 https://github.com/ChrisTruncer/Egress-Assess.git
 https://github.com/nccgroup/chuckle.git
+https://github.com/ChrisTruncer/WMIOps.git
 EOF`
 cd ../ 
 for i in $a

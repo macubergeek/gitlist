@@ -357,6 +357,7 @@ https://github.com/samratashok/nishang.git
 https://github.com/ChrisTruncer/Egress-Assess.git
 https://github.com/nccgroup/chuckle.git
 https://github.com/ChrisTruncer/WMIOps.git
+https://github.com/psypanda/hashID.git
 EOF`
 cd ../ 
 for i in $a

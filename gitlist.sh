@@ -363,6 +363,7 @@ https://github.com/silentbreaksec/UnmanagedPowerShell.git
 https://github.com/silentbreaksec/Throwback.git
 https://github.com/silentbreaksec/ThrowbackLP.git
 https://github.com/silentbreaksec/Trebuchet.git
+https://github.com/hfiref0x/UACME.git
 EOF`
 cd ../ 
 for i in $a

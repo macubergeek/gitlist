@@ -358,6 +358,11 @@ https://github.com/ChrisTruncer/Egress-Assess.git
 https://github.com/nccgroup/chuckle.git
 https://github.com/ChrisTruncer/WMIOps.git
 https://github.com/psypanda/hashID.git
+https://github.com/n1nj4sec/pupy.git
+https://github.com/silentbreaksec/UnmanagedPowerShell.git
+https://github.com/silentbreaksec/Throwback.git
+https://github.com/silentbreaksec/ThrowbackLP.git
+https://github.com/silentbreaksec/Trebuchet.git
 EOF`
 cd ../ 
 for i in $a

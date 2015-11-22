@@ -122,6 +122,7 @@ https://github.com/entropy1337/infernal-twin/archive/master.zip
 http://downloads.sourceforge.net/project/isic/isic/ISIC%20v0.07/isic-0.07.tgz
 http://www.thc.org/releases/hydra-8.1.tar.gz
 https://code.google.com/p/littleblackbox/downloads/detail?name=littleblackbox-0.1.3.tar.gz
+https://github.com/ElevenPaths/EvilFOCA/releases/download/0.1.4.0/EvilFoca.zip
 EOF`
 cd ../
 for i in $a

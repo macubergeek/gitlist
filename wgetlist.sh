@@ -71,8 +71,8 @@ https://fimap.googlecode.com/files/fimap_alpha_v09.tar.gz
 https://squirtle.googlecode.com/files/squirtle-1.1a.zip 
 http://sniff.su/Intercepter-NG.CE.05.zip
 http://comax.fr/yamas/bt5/yamas.sh
-https://github.com/gentilkiwi/mimikatz/releases/download/2.0.0-alpha-20150402/mimikatz_trunk.7z
 http://downloads.sourceforge.net/project/airpwn/airpwn/1.4/airpwn-1.4.tgz
+https://github.com/gentilkiwi/mimikatz/releases/download/2.0.0-alpha-20151113/mimikatz_trunk.zip
 https://github.com/adafruit/Adafruit-Pi-Finder/releases/download/v2.0.1-beta/pibootstrap_linux64.tar.gz
 http://www.securitysift.com/download/linuxprivchecker.py
 http://pentestmonkey.net/tools/unix-privesc-check/unix-privesc-check-1.4.tar.gz
@@ -123,6 +123,7 @@ http://downloads.sourceforge.net/project/isic/isic/ISIC%20v0.07/isic-0.07.tgz
 http://www.thc.org/releases/hydra-8.1.tar.gz
 https://code.google.com/p/littleblackbox/downloads/detail?name=littleblackbox-0.1.3.tar.gz
 https://github.com/ElevenPaths/EvilFOCA/releases/download/0.1.4.0/EvilFoca.zip
+https://bitbucket.org/grimhacker/gpppfinder/downloads
 EOF`
 cd ../
 for i in $a

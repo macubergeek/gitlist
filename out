@@ -1,5 +1,3 @@
-#!/bin/bash
-a=`cat <<-EOF
 https://github.com/ChrisTruncer/WMIOps.git 
 https://github.com/Kevin-Robertson/Inveigh.git
 https://github.com/PowerShellEmpire/Empire.git
@@ -24,9 +22,3 @@ https://github.com/secabstraction/Create-WMIshell.git
 https://github.com/secabstraction/PowerCat.git
 https://github.com/secabstraction/WmiSploit.git
 https://github.com/vacmf/powershell-scripts.git
-EOF`
-cd /var/www
-for i in $a
-do
-git clone $i
-done

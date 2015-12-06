@@ -367,6 +367,7 @@ https://github.com/hfiref0x/UACME.git
 https://github.com/0xd4d/dnSpy.git
 https://github.com/1N3/Sn1per.git
 https://github.com/pentestmonkey/windows-privesc-check.git
+https://github.com/samratashok/Kautilya.git
 EOF`
 cd ../ 
 for i in $a

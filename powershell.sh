@@ -26,6 +26,7 @@ https://github.com/secabstraction/WmiSploit.git
 https://github.com/vacmf/powershell-scripts.git
 https://github.com/xorrior/RandomPS-Scripts.git
 https://github.com/ChrisTruncer/WMIOps.git
+https://github.com/HarmJ0y/CheatSheets.git
 EOF`
 cd /var/www
 for i in $a

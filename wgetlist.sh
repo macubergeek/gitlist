@@ -124,6 +124,7 @@ http://www.thc.org/releases/hydra-8.1.tar.gz
 https://code.google.com/p/littleblackbox/downloads/detail?name=littleblackbox-0.1.3.tar.gz
 https://github.com/ElevenPaths/EvilFOCA/releases/download/0.1.4.0/EvilFoca.zip
 https://bitbucket.org/grimhacker/gpppfinder/downloads
+https://bitbucket.org/atlas0fd00m/rfcat/downloads/rfcat_150225.tgz
 EOF`
 cd ../
 for i in $a

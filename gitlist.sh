@@ -370,6 +370,7 @@ https://github.com/pentestmonkey/windows-privesc-check.git
 https://github.com/samratashok/Kautilya.git
 https://github.com/danielmiessler/RobotsDisallowed.git
 https://github.com/HarmJ0y/CheatSheets.git
+https://bitbucket.org/atlas0fd00m/rfcat
 EOF`
 cd ../ 
 for i in $a

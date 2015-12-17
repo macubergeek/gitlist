@@ -28,6 +28,7 @@ https://github.com/xorrior/RandomPS-Scripts.git
 https://github.com/ChrisTruncer/WMIOps.git
 https://github.com/HarmJ0y/CheatSheets.git
 https://github.com/enigma0x3/Powershell-Payload-Excel-Delivery.git
+https://github.com/tfairane/DocDropper.git
 EOF`
 cd /var/www
 for i in $a

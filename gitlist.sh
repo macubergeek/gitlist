@@ -371,6 +371,7 @@ https://github.com/samratashok/Kautilya.git
 https://github.com/danielmiessler/RobotsDisallowed.git
 https://github.com/HarmJ0y/CheatSheets.git
 https://github.com/ParrotSec/alternate-install.git
+https://github.com/securitytube/wifiscanvisualizer.git
 EOF`
 cd ../ 
 for i in $a

@@ -372,6 +372,17 @@ https://github.com/danielmiessler/RobotsDisallowed.git
 https://github.com/HarmJ0y/CheatSheets.git
 https://github.com/ParrotSec/alternate-install.git
 https://github.com/securitytube/wifiscanvisualizer.git
+https://github.com/commonexploits/livehosts.git
+https://github.com/commonexploits/dtpscan.git
+https://github.com/commonexploits/weape.git
+https://github.com/commonexploits/weape.git
+https://github.com/commonexploits/port-scan-automation.git
+https://github.com/commonexploits/winocphc.git
+https://github.com/commonexploits/vlan-hopping.git
+https://github.com/nccgroup/easyda.git
+https://github.com/nccgroup/cisco-SNMP-enumeration.git
+https://github.com/juliocesarfort/netscreen-shodan-scanner.git
+https://github.com/herrbischoff/awesome-osx-command-line.git
 EOF`
 cd ../ 
 for i in $a

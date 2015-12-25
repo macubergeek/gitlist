@@ -385,6 +385,7 @@ https://github.com/juliocesarfort/netscreen-shodan-scanner.git
 https://github.com/herrbischoff/awesome-osx-command-line.git
 https://github.com/vanhauser-thc/thc-hydra.git
 https://github.com/jkbrzt/httpie.git
+https://github.com/mandatoryprogrammer/FlashHTTPRequest.git
 EOF`
 cd ../ 
 for i in $a

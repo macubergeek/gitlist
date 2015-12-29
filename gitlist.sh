@@ -386,6 +386,7 @@ https://github.com/herrbischoff/awesome-osx-command-line.git
 https://github.com/vanhauser-thc/thc-hydra.git
 https://github.com/jkbrzt/httpie.git
 https://github.com/mandatoryprogrammer/FlashHTTPRequest.git
+https://github.com/hatRiot/clusterd.git
 EOF`
 cd ../ 
 for i in $a

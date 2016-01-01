@@ -388,6 +388,7 @@ https://github.com/jkbrzt/httpie.git
 https://github.com/mandatoryprogrammer/FlashHTTPRequest.git
 https://github.com/hatRiot/clusterd.git
 https://github.com/nvbn/everpad.git
+https://github.com/paramiko/paramiko.git
 EOF`
 cd ../ 
 for i in $a

@@ -389,6 +389,7 @@ https://github.com/mandatoryprogrammer/FlashHTTPRequest.git
 https://github.com/hatRiot/clusterd.git
 https://github.com/nvbn/everpad.git
 https://github.com/paramiko/paramiko.git
+https://github.com/scadastrangelove/SCADAPASS.git
 EOF`
 cd ../ 
 for i in $a

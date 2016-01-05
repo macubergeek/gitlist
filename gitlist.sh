@@ -390,6 +390,7 @@ https://github.com/hatRiot/clusterd.git
 https://github.com/nvbn/everpad.git
 https://github.com/paramiko/paramiko.git
 https://github.com/scadastrangelove/SCADAPASS.git
+https://github.com/leonteale/pentestpackage.git
 EOF`
 cd ../ 
 for i in $a

@@ -391,6 +391,11 @@ https://github.com/nvbn/everpad.git
 https://github.com/paramiko/paramiko.git
 https://github.com/scadastrangelove/SCADAPASS.git
 https://github.com/leonteale/pentestpackage.git
+https://github.com/commonexploits/whatsfree.git
+https://github.com/commonexploits/dtpscan.git
+https://github.com/commonexploits/weape.git
+https://github.com/commonexploits/vlan-hopping.git
+https://github.com/nccgroup/cisco-SNMP-enumeration.git
 EOF`
 cd ../ 
 for i in $a

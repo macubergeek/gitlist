@@ -397,6 +397,7 @@ https://github.com/commonexploits/weape.git
 https://github.com/commonexploits/vlan-hopping.git
 https://github.com/nccgroup/cisco-SNMP-enumeration.git
 https://github.com/Warpnet/scantool.git
+https://github.com/Gallopsled/pwntools.git
 EOF`
 cd ../ 
 for i in $a

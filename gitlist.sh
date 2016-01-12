@@ -398,6 +398,8 @@ https://github.com/commonexploits/vlan-hopping.git
 https://github.com/nccgroup/cisco-SNMP-enumeration.git
 https://github.com/Warpnet/scantool.git
 https://github.com/Gallopsled/pwntools.git
+https://github.com/allfro/BurpKit.git
+https://github.com/allfro/pymiproxy.git
 EOF`
 cd ../ 
 for i in $a

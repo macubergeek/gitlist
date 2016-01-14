@@ -400,6 +400,7 @@ https://github.com/Warpnet/scantool.git
 https://github.com/Gallopsled/pwntools.git
 https://github.com/allfro/BurpKit.git
 https://github.com/allfro/pymiproxy.git
+https://github.com/darkoperator/dnsrecon.git
 EOF`
 cd ../ 
 for i in $a

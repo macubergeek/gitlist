@@ -231,7 +231,6 @@ https://github.com/cheetz/spearphishing.git
 https://github.com/cheetz/adobe_password_checker.git
 https://github.com/cheetz/Web_Password_Gen.git
 https://github.com/cheetz/brutescrape.git
-https://github.com/ChrisTruncer/EyeWitness.git
 https://github.com/MaYaSeVeN/Wmap.git
 https://github.com/sophron/wifiphisher.git
 https://github.com/cheetz/Easy-P.git

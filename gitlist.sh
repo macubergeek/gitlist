@@ -402,6 +402,7 @@ https://github.com/allfro/pymiproxy.git
 https://github.com/darkoperator/dnsrecon.git
 https://github.com/elceef/dnstwist.git
 https://github.com/foxglovesec/Potato.git
+https://github.com/packetfocus/Recon.git
 EOF`
 cd ../ 
 for i in $a

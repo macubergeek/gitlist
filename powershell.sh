@@ -29,6 +29,7 @@ https://github.com/ChrisTruncer/WMIOps.git
 https://github.com/HarmJ0y/CheatSheets.git
 https://github.com/enigma0x3/Powershell-Payload-Excel-Delivery.git
 https://github.com/tfairane/DocDropper.git
+https://github.com/Kevin-Robertson/Tater.git
 EOF`
 cd /var/www
 for i in $a

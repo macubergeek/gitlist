@@ -403,6 +403,7 @@ https://github.com/darkoperator/dnsrecon.git
 https://github.com/elceef/dnstwist.git
 https://github.com/foxglovesec/Potato.git
 https://github.com/packetfocus/Recon.git
+https://github.com/iamchippa/dumpmon-scraper.git
 EOF`
 cd ../ 
 for i in $a

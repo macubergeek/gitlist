@@ -404,6 +404,7 @@ https://github.com/elceef/dnstwist.git
 https://github.com/foxglovesec/Potato.git
 https://github.com/packetfocus/Recon.git
 https://github.com/iamchippa/dumpmon-scraper.git
+https://github.com/Gradberry/Email-Permutator.git
 EOF`
 cd ../ 
 for i in $a

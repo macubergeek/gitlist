@@ -124,6 +124,9 @@ https://code.google.com/p/littleblackbox/downloads/detail?name=littleblackbox-0.
 https://github.com/ElevenPaths/EvilFOCA/releases/download/0.1.4.0/EvilFoca.zip
 https://bitbucket.org/grimhacker/gpppfinder/downloads
 https://bitbucket.org/atlas0fd00m/rfcat/downloads/rfcat_150225.tgz
+http://pastebin.com/raw/1pH95aep
+http://pastebin.com/raw/8CepfW8p
+https://github.com/pentestmonkey/windows-privesc-check/archive/master.zip
 EOF`
 cd ../
 for i in $a

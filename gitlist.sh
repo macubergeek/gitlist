@@ -407,6 +407,7 @@ https://github.com/iamchippa/dumpmon-scraper.git
 https://github.com/Gradberry/Email-Permutator.git
 https://github.com/aboul3la/Sublist3r.git
 https://github.com/Kevin-Robertson/Tater
+https://github.com/rsmudge/Malleable-C2-Profiles.git
 EOF`
 cd ../ 
 for i in $a

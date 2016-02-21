@@ -172,7 +172,6 @@ https://github.com/rebootuser/LinEnum.git
 https://github.com/bidord/pykek.git
 https://github.com/moxie0/chapcrack.git
 https://github.com/0xsauby/yasuo.git
-https://github.com/NetSPI/cmdsql.git
 https://bitbucket.org/R4v3N/wp-plug.git
 https://github.com/leechristensen/UnmanagedPowerShell.git
 https://github.com/trustedsec/hash_parser.git

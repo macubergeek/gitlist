@@ -120,7 +120,6 @@ https://github.com/antirez/dump1090.git
 https://github.com/skaringa/weather-sdr-decode.git
 https://github.com/Nuand/bladeRF.git
 https://github.com/allfro/sploitego.git
-https://github.com/samratashok/nishang.git
 https://github.com/balle/bluediving.git
 https://github.com/tkuester/gr-psk31.git
 https://github.com/bgamari/gnuradio-multimode.git

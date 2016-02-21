@@ -127,6 +127,8 @@ https://bitbucket.org/atlas0fd00m/rfcat/downloads/rfcat_150225.tgz
 http://pastebin.com/raw/1pH95aep
 http://pastebin.com/raw/8CepfW8p
 https://github.com/pentestmonkey/windows-privesc-check/archive/master.zip
+https://labs.portcullis.co.uk/download/whoislikeaboss.tar.gz
+https://labs.portcullis.co.uk/download/hoppy-1.8.1.tar.bz2
 EOF`
 cd ../
 for i in $a

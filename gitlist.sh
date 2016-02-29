@@ -408,6 +408,7 @@ https://github.com/Kevin-Robertson/Tater
 https://github.com/rsmudge/Malleable-C2-Profiles.git
 https://github.com/leonteale/pentestpackage.git
 https://github.com/JohnTroony/php-webshells.git
+https://github.com/Eisler/URLCrazy.git
 EOF`
 cd ../ 
 for i in $a

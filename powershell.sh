@@ -30,6 +30,7 @@ https://github.com/HarmJ0y/CheatSheets.git
 https://github.com/enigma0x3/Powershell-Payload-Excel-Delivery.git
 https://github.com/tfairane/DocDropper.git
 https://github.com/Kevin-Robertson/Tater.git
+https://github.com/jaredhaight/PSAttack.git
 EOF`
 cd /var/www
 for i in $a

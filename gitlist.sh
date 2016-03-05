@@ -409,6 +409,7 @@ https://github.com/rsmudge/Malleable-C2-Profiles.git
 https://github.com/leonteale/pentestpackage.git
 https://github.com/JohnTroony/php-webshells.git
 https://github.com/Eisler/URLCrazy.git
+https://github.com/jaredhaight/PSAttack.git
 EOF`
 cd ../ 
 for i in $a

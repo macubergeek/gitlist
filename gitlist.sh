@@ -410,6 +410,8 @@ https://github.com/leonteale/pentestpackage.git
 https://github.com/JohnTroony/php-webshells.git
 https://github.com/Eisler/URLCrazy.git
 https://github.com/jaredhaight/PSAttack.git
+https://github.com/mubix/post-exploitation.git
+ http://www.securitysift.com/download/linuxprivchecker.py
 EOF`
 cd ../ 
 for i in $a

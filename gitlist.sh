@@ -411,7 +411,8 @@ https://github.com/JohnTroony/php-webshells.git
 https://github.com/Eisler/URLCrazy.git
 https://github.com/jaredhaight/PSAttack.git
 https://github.com/mubix/post-exploitation.git
- http://www.securitysift.com/download/linuxprivchecker.py
+http://www.securitysift.com/download/linuxprivchecker.py
+https://github.com/milo2012/pentest_scripts.git
 EOF`
 cd ../ 
 for i in $a

@@ -413,6 +413,7 @@ https://github.com/jaredhaight/PSAttack.git
 https://github.com/mubix/post-exploitation.git
 http://www.securitysift.com/download/linuxprivchecker.py
 https://github.com/milo2012/pentest_scripts.git
+https://github.com/sensepost/BiLE-suite.git
 EOF`
 cd ../ 
 for i in $a

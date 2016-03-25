@@ -414,6 +414,8 @@ https://github.com/mubix/post-exploitation.git
 http://www.securitysift.com/download/linuxprivchecker.py
 https://github.com/milo2012/pentest_scripts.git
 https://github.com/sensepost/BiLE-suite.git
+https://github.com/Raikia/SMBCrunch.git
+https://github.com/Raikia/CredSwissArmy.git
 EOF`
 cd ../ 
 for i in $a

@@ -416,6 +416,7 @@ https://github.com/milo2012/pentest_scripts.git
 https://github.com/sensepost/BiLE-suite.git
 https://github.com/Raikia/SMBCrunch.git
 https://github.com/Raikia/CredSwissArmy.git
+https://github.com/ericevenchick/CANard.git
 EOF`
 cd ../ 
 for i in $a

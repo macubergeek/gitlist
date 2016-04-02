@@ -417,6 +417,7 @@ https://github.com/sensepost/BiLE-suite.git
 https://github.com/Raikia/SMBCrunch.git
 https://github.com/Raikia/CredSwissArmy.git
 https://github.com/ericevenchick/CANard.git
+https://github.com/danielmiessler/ATM
 EOF`
 cd ../ 
 for i in $a

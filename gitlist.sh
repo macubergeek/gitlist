@@ -419,6 +419,7 @@ https://github.com/Raikia/CredSwissArmy.git
 https://github.com/ericevenchick/CANard.git
 https://github.com/danielmiessler/ATM
 https://github.com/linuz/Email-Verifier.git
+https://github.com/khr0x40sh/MacroShop.git
 EOF`
 cd ../ 
 for i in $a

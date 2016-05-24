@@ -1,5 +1,5 @@
 #!/bin/bash
 #cd gitlist
-git add -A *
+git add -A * -f
 git commit -m "adding a few tools"
 git push -u origin master

@@ -411,7 +411,6 @@ https://github.com/JohnTroony/php-webshells.git
 https://github.com/hardwaterhacker/URLCrazy.git
 https://github.com/jaredhaight/PSAttack.git
 https://github.com/mubix/post-exploitation.git
-http://www.securitysift.com/download/linuxprivchecker.py
 https://github.com/milo2012/pentest_scripts.git
 https://github.com/sensepost/BiLE-suite.git
 https://github.com/Raikia/SMBCrunch.git
@@ -420,6 +419,10 @@ https://github.com/ericevenchick/CANard.git
 https://github.com/danielmiessler/ATM
 https://github.com/linuz/Email-Verifier.git
 https://github.com/khr0x40sh/MacroShop.git
+https://github.com/thezawad/rev-door.git
+https://github.com/Charliedean/psexecspray.git 
+https://github.com/Hypsurus/weeman.git
+https://github.com/eklitzke/c.sh.git
 EOF`
 cd ../ 
 for i in $a

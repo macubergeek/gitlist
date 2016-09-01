@@ -423,6 +423,7 @@ https://github.com/thezawad/rev-door.git
 https://github.com/Charliedean/psexecspray.git 
 https://github.com/Hypsurus/weeman.git
 https://github.com/eklitzke/c.sh.git
+https://github.com/PowerShell/PowerShell.git
 EOF`
 cd ../ 
 for i in $a

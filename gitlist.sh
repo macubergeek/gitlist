@@ -424,6 +424,7 @@ https://github.com/Charliedean/psexecspray.git
 https://github.com/Hypsurus/weeman.git
 https://github.com/eklitzke/c.sh.git
 https://github.com/PowerShell/PowerShell.git
+https://github.com/USArmyResearchLab/Dshell.git
 EOF`
 cd ../ 
 for i in $a
